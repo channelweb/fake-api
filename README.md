@@ -1,3 +1,15 @@
-## Try it
+# Setup
 
-[https://my-json-server.typicode.com/channelweb/fake-api](https://my-json-server.typicode.com/channelweb/fake-api)
+* install json-server
+
+```bash
+npm install -g json-server
+```
+
+* edit `db.json` and `routes.json`
+
+* launch server
+
+```bash
+json-server db.json --routes routes.json
+```
