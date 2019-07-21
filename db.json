@@ -46,7 +46,7 @@
             "idSito": "9f1a0dc3-5a42-49ff-80f4-4a9d0b37f1b3",
             "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
             "flagSost": 1,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "e62d6658-fd18-4c03-8e18-8c7a15843584",
               "flagNazi": 1,
               "codiGeo": "N",
@@ -54,7 +54,7 @@
               "codiRegi": "002",
               "codiProv": "001",
               "codiComu": "006"
-            },
+            }],
             "protApprovStru": "i9y8klqt4y",
             "dataProtApprovStru": "2019-04-13",
             "protAssFinanzStru": "hg09s1g5lu",
@@ -140,7 +140,7 @@
             "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
             "idStruPadr": "a67eefc5-029f-4f52-90af-bd0eb8d62c47",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "71b3b368-d9b4-4bf9-bd06-55f824a05e5c",
               "flagNazi": 1,
               "codiGeo": "P",
@@ -148,7 +148,7 @@
               "codiRegi": "000",
               "codiProv": "000",
               "codiComu": "003"
-            },
+            }],
             "protApprovStru": "gsr16u9lyc",
             "dataProtApprovStru": "2019-04-14",
             "protAssFinanzStru": "s9335cy3jd",
@@ -274,7 +274,7 @@
             "idSito": "9f1a0dc3-5a42-49ff-80f4-4a9d0b37f1b3",
             "idStruPadr": "43255279-13ee-440e-bb56-1545c4c367ce",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "a93c0eda-88a5-462a-9c65-4b2eda24e450",
               "flagNazi": 1,
               "codiGeo": "N",
@@ -282,7 +282,7 @@
               "codiRegi": "003",
               "codiProv": "004",
               "codiComu": "003"
-            },
+            }],
             "protApprovStru": "3a1ua3n1zn",
             "dataProtApprovStru": "2019-05-25",
             "protAssFinanzStru": "93i4m3r6f5",
@@ -402,7 +402,7 @@
             "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
             "idStruPadr": "37d19003-1418-4b43-83b3-f639df74032e",
             "flagSost": 1,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "6276bc7c-ce5a-4762-b0e0-1e125235cb93",
               "flagNazi": 1,
               "codiGeo": "R",
@@ -410,7 +410,7 @@
               "codiRegi": "000",
               "codiProv": "006",
               "codiComu": "006"
-            },
+            }],
             "protApprovStru": "uu5of8t292",
             "dataProtApprovStru": "2019-01-04",
             "protAssFinanzStru": "irg4d23r6l",
@@ -480,7 +480,7 @@
             "idSito": "b7bef408-df63-455c-b6c5-b4cb689b5170",
             "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "4c937243-3d82-433d-95b7-8955171a631f",
               "flagNazi": 1,
               "codiGeo": "P",
@@ -488,7 +488,7 @@
               "codiRegi": "003",
               "codiProv": "001",
               "codiComu": "004"
-            },
+            }],
             "protApprovStru": "qcexj6jb7y",
             "dataProtApprovStru": "2019-05-14",
             "protAssFinanzStru": "kpozcrcnbe",
@@ -635,7 +635,7 @@
             "idSito": "7159482b-203e-44fd-bf57-1b75edf637cb",
             "idStruPadr": "37d19003-1418-4b43-83b3-f639df74032e",
             "flagSost": 1,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "ae776755-ca74-47b0-a4ba-b517e3f0974f",
               "flagNazi": 1,
               "codiGeo": "R",
@@ -643,7 +643,7 @@
               "codiRegi": "001",
               "codiProv": "000",
               "codiComu": "003"
-            },
+            }],
             "protApprovStru": "x2njoes6nx",
             "dataProtApprovStru": "2019-03-16",
             "protAssFinanzStru": "kntw1irnxk",
@@ -745,7 +745,7 @@
             "idSito": "b7bef408-df63-455c-b6c5-b4cb689b5170",
             "idStruPadr": "43255279-13ee-440e-bb56-1545c4c367ce",
             "flagSost": 1,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "46adcba3-6e55-4358-953a-00db1011e6ec",
               "flagNazi": 1,
               "codiGeo": "P",
@@ -753,7 +753,7 @@
               "codiRegi": "003",
               "codiProv": "000",
               "codiComu": "001"
-            },
+            }],
             "protApprovStru": "tn761q3msg",
             "dataProtApprovStru": "2019-03-20",
             "protAssFinanzStru": "ug28a0391t",
@@ -888,7 +888,7 @@
             "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
             "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "97652363-e330-4e29-9bfa-1ec51172205f",
               "flagNazi": 1,
               "codiGeo": "N",
@@ -896,7 +896,7 @@
               "codiRegi": "003",
               "codiProv": "001",
               "codiComu": "001"
-            },
+            }],
             "protApprovStru": "3jnahvrfm9",
             "dataProtApprovStru": "2019-06-22",
             "protAssFinanzStru": "fb9ye0ktid",
@@ -936,7 +936,7 @@
             "idSito": "89323d67-8eed-4954-99ca-4b9821e31edd",
             "idStruPadr": "1bcb1e92-1e72-4407-927b-eb8b3996a8dd",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "b233708e-d4bf-464b-b703-6dc3804ef2f4",
               "flagNazi": 1,
               "codiGeo": "R",
@@ -944,7 +944,7 @@
               "codiRegi": "001",
               "codiProv": "005",
               "codiComu": "003"
-            },
+            }],
             "protApprovStru": "3lmbpdyd21",
             "dataProtApprovStru": "2019-03-22",
             "protAssFinanzStru": "yxmyfrpfzf",
@@ -1017,7 +1017,7 @@
             "idSito": "89323d67-8eed-4954-99ca-4b9821e31edd",
             "idStruPadr": "1bcb1e92-1e72-4407-927b-eb8b3996a8dd",
             "flagSost": 0,
-            "riferimentoGeografico": {
+            "riferimentiGeografici": [{
               "idStge": "67afbb3e-d912-4cae-ac65-837109266e2a",
               "flagNazi": 1,
               "codiGeo": "P",
@@ -1025,7 +1025,7 @@
               "codiRegi": "001",
               "codiProv": "006",
               "codiComu": "005"
-            },
+            }],
             "protApprovStru": "g11pwwc2da",
             "dataProtApprovStru": "2019-03-08",
             "protAssFinanzStru": "7vxjq0ln4l",
