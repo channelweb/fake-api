@@ -1,4 +1,8 @@
 {
     "/tipologiche/tipologie": "/_tipologie",
-    "/tipologiche/entibeneficiari": "/_enti"
+    "/tipologiche/entibeneficiari": "/_enti",
+    "/tipologiche/settori": "/_settori",
+    "/tipologiche/sottoscrittori": "/_sottoscrittori",
+    "/tipologiche/siti": "/_siti",
+    "/tipologiche/strumenti": "/_strumenti"
 }
