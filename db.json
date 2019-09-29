@@ -3,1190 +3,1392 @@
       "tipoLista": "string",
       "totalResult": 10,
       "page": 1,
-      "pageSize": 1,
+      "pageSize": 10,
       "order": "tipoStru",
       "direction": "DESC",
       "lista": [
-          {
-            "id": "b70f78f7-123e-462a-902e-a68a6a785adf",
-            "idStru": "b70f78f7-123e-462a-902e-a68a6a785adf",
-            "tipoStru": "b6f8f38c-e561-4274-8c85-e32e3dcc2f5b",
-            "idSett": "d8a7141b-3fee-454c-9cbc-001973964b76",
-            "nomeStru": "esecutiva condivisibile Sfida",
-            "obbiStru": "aut",
-            "dataFirm": "2019-01-03",
-            "dataRegi": "2019-07-06",
-            "sottoscrittori": [
-              {
-                "idStss": "759d868f-4eca-49df-bfbf-dc2d2ae4a8ab",
-                "idSogg": "795ceca6-1222-401c-9885-ff7c55177df5",
-                "denoSogg": "Edilio De rosa"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              }
-            ],
-            "refeAmmiNome": "Eliziario",
-            "refeAmmiCognome": "Sanna",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "7d2524d7-75ed-45ea-a32f-be157e9b6265",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Gerlando",
-                "refeBeneCognome": "Martini",
-                "teleRefe": "+07 970 95 85 5572",
-                "mailRefe": "Umberto34@example.org",
-                "pecRefe": "Benedetta73@example.net"
-              }
-            ],
-            "numeProt": "5eb850ad-70a6-4cdb-b1e9-ca7a898f06ac",
-            "idSito": "9f1a0dc3-5a42-49ff-80f4-4a9d0b37f1b3",
-            "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
-            "flagSost": 1,
-            "riferimentoGeografico": {
-              "idStge": "e62d6658-fd18-4c03-8e18-8c7a15843584",
-              "flagNazi": 1,
-              "codiGeo": "N",
-              "codiIsta": "37ft90i8tan7qd6",
-              "codiRegi": "002",
-              "codiProv": "001",
-              "codiComu": "006"
+        {
+          "id": "2b7ebbea-9e6b-4b43-8175-96893609a717",
+          "idStru": "2b7ebbea-9e6b-4b43-8175-96893609a717",
+          "tipoStru": "87bd51d5-b267-4798-bec1-b47b34305667",
+          "idSett": "ad57a63e-2d28-4149-a71c-a2700c2f21b3",
+          "nomeStru": "uniforme avanzata Collaborazione",
+          "obbiStru": "asperiores",
+          "dataFirm": "2019-06-11",
+          "dataRegi": "2019-07-17",
+          "sottoscrittori": [
+            {
+              "idStss": "2538eceb-b614-48fd-94bb-a70f4c34a1d1",
+              "idSogg": "028e1d32-8870-45f4-8d3c-12e09527d077",
+              "denoSogg": "Giacinta Amato"
             },
-            "protApprovStru": "i9y8klqt4y",
-            "dataProtApprovStru": "2019-04-13",
-            "protAssFinanzStru": "hg09s1g5lu",
-            "dataProtAssFinanzStru": "2019-01-19",
-            "noteStru": "Eligendi magnam et magnam modi et eos. Officia illum hic et. Maiores possimus beatae totam deserunt dolore consequatur unde asperiores numquam. Fuga sit placeat. Dicta nam et vero vel ducimus deserunt est sed. Modi quos est omnis natus nisi enim ut id.",
-            "codiStru": "01887c7d-e8c8-49f2-88a8-db1781424156",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 1,
-            "statLavoDesc": "Chiuso",
-            "enti": [
-              "Ente 2"
-            ]
-          },
-          {
-            "id": "b183c7bf-9812-4b59-a42b-a0984ffe8768",
-            "idStru": "b183c7bf-9812-4b59-a42b-a0984ffe8768",
-            "tipoStru": "b6f8f38c-e561-4274-8c85-e32e3dcc2f5b",
-            "idSett": "41e75cee-0ceb-4180-be38-24b0e83afef8",
-            "nomeStru": "background monitorata Frame",
-            "obbiStru": "beatae",
-            "dataFirm": "2018-07-19",
-            "dataRegi": "2019-07-04",
-            "sottoscrittori": [
-              {
-                "idStss": "0f0e0b6c-644e-454f-9535-ae90fa3fdb07",
-                "idSogg": "436a3e35-b16f-4fb2-94cc-9edbf5797821",
-                "denoSogg": "Michele Parisi"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              },
-              {
-                "idStss": "5bc0c837-5856-4d74-bc34-54780f86a23b",
-                "idSogg": "21a903aa-dccf-4f32-a0b6-b81806b64313",
-                "denoSogg": "Dott. Fulvio Martinelli"
-              },
-              {
-                "idStss": "8ed1e1a2-2b15-4608-a1a1-3a8af6fa4f96",
-                "idSogg": "1eae061c-8e6b-437d-9e0b-52d5a28d62cd",
-                "denoSogg": "Kai Costa"
-              },
-              {
-                "idStss": "f65a2630-19e5-4d54-89d8-50cc0b0479a7",
-                "idSogg": "3656d836-cff8-404a-b355-b5526da1869d",
-                "denoSogg": "Italo Vitale"
-              },
-              {
-                "idStss": "10003aeb-c0b5-4cdc-98bb-ef3e746aa45e",
-                "idSogg": "851c97a3-64e8-4f67-b4ca-78310412ba3f",
-                "denoSogg": "Diana Ferretti"
-              },
-              {
-                "idStss": "18c62160-c9d0-4be6-9156-e889eacf2a3a",
-                "idSogg": "46754274-0315-4700-9311-935f564955a2",
-                "denoSogg": "Miriana Gentile"
-              },
-              {
-                "idStss": "756cd1b8-70a5-43a1-9b5c-8b1d34c0c11b",
-                "idSogg": "a90c8191-c53b-4cb5-a867-0c368efac9e7",
-                "denoSogg": "Erminio Parisi"
-              }
-            ],
-            "refeAmmiNome": "Giulietta",
-            "refeAmmiCognome": "Sala",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "e3a5b7de-d761-4c46-9ee1-cbe24a2cbbd6",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Vera",
-                "refeBeneCognome": "Riva",
-                "teleRefe": "+12 92 16770930",
-                "mailRefe": "Demi.DeSantis31@example.net",
-                "pecRefe": "Siro43@example.com"
-              }
-            ],
-            "numeProt": "e07edeb4-626b-4d52-9b73-baed8c79c104",
-            "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
-            "idStruPadr": "a67eefc5-029f-4f52-90af-bd0eb8d62c47",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "71b3b368-d9b4-4bf9-bd06-55f824a05e5c",
-              "flagNazi": 1,
+            {
+              "idStss": "448a1a00-326e-48c9-a634-3af6f15d8c51",
+              "idSogg": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+              "denoSogg": "Dindo Battaglia"
+            },
+            {
+              "idStss": "3ed139cd-f7c0-4d77-891f-fbe6ef0a5910",
+              "idSogg": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+              "denoSogg": "Enrico Ferrari"
+            },
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            },
+            {
+              "idStss": "17bc2123-499c-4617-835b-337ea9046161",
+              "idSogg": "eefc3a12-4dcb-4b23-811d-629a48ee152e",
+              "denoSogg": "Tazio Fabbri"
+            }
+          ],
+          "refeAmmiNome": "Giacobbe",
+          "refeAmmiCognome": "Farin",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "82e98931-d96e-4751-87b7-471a08da5131",
+              "idBene": "c100e078-a979-4e99-be2d-635576374d45",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Elio",
+              "refeBeneCognome": "Rinaldi",
+              "teleRefe": "+61 655 05035966",
+              "mailRefe": "Marino8@example.com",
+              "pecRefe": "Harry18@example.org"
+            },
+            {
+              "idStbe": "5666cb2d-a97d-4104-b6cf-6832b4315bb2",
+              "idBene": "27accf1e-d09e-4829-a616-4602880600be",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Raoul",
+              "refeBeneCognome": "Piras",
+              "teleRefe": "+39 042 926 587",
+              "mailRefe": "Luigi_Palmieri@example.com",
+              "pecRefe": "Elga_Mazza68@example.com"
+            },
+            {
+              "idStbe": "8dcba0ce-f7de-4879-8ad1-51049a74ee10",
+              "idBene": "107c2a0b-dc50-4a8a-bffc-88f8adb1716a",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Arduino",
+              "refeBeneCognome": "De luca",
+              "teleRefe": "+33 93 1446429",
+              "mailRefe": "Demian_Ricci@example.org",
+              "pecRefe": "Fiorenzo.Santoro@example.org"
+            },
+            {
+              "idStbe": "1e3ef363-8bd1-4978-869e-23db4b55b3f0",
+              "idBene": "5fe9f7eb-d34c-478b-aaa9-446cfea91154",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Sebastian",
+              "refeBeneCognome": "Cont",
+              "teleRefe": "+72 3164 85957816",
+              "mailRefe": "Noel.Amato37@example.net",
+              "pecRefe": "Ercole.Donati@example.com"
+            },
+            {
+              "idStbe": "501106c4-999b-4e5f-8933-4126c9645967",
+              "idBene": "b8212af7-9ace-4435-b9a7-1cfb47bd6b1b",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Joseph",
+              "refeBeneCognome": "Mancini",
+              "teleRefe": "+36 1294 9171497",
+              "mailRefe": "Luna_Romano35@example.org",
+              "pecRefe": "Joshua.Fior@example.org"
+            }
+          ],
+          "numeProt": "2b061e0a-0969-4877-b4b4-828a4a808c40",
+          "idSito": "56a33cfa-80ea-42f4-af64-363c958e8a9e",
+          "idStruPadr": "19144831-8e62-4089-b882-1435f0c6225c",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "86670843-6164-4267-a2c8-c20de4017d30",
+              "flagNazi": 0,
               "codiGeo": "P",
-              "codiIsta": "l58pwtuq6ttuedv",
-              "codiRegi": "000",
-              "codiProv": "000",
-              "codiComu": "003"
-            },
-            "protApprovStru": "gsr16u9lyc",
-            "dataProtApprovStru": "2019-04-14",
-            "protAssFinanzStru": "s9335cy3jd",
-            "dataProtAssFinanzStru": "2018-12-06",
-            "noteStru": "Rerum voluptas qui omnis aspernatur non sed ut fugiat ea. Omnis atque corrupti laborum perspiciatis magni. Doloremque quasi officia aut eos illum. Natus accusantium officia esse omnis nihil voluptatem fugiat voluptatem ad. Molestiae est voluptatem neque quos qui voluptatem. Qui sunt nulla amet aperiam et quae quas dolores ducimus.",
-            "codiStru": "c0615245-148c-4dc1-b804-0bbc6ca2f112",
-            "statInse": 1,
-            "statInseDesc": "Definitivo",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 1,
-            "statLavoDesc": "Chiuso",
-            "enti": [
-              "Ente 2"
-            ]
-          },
-          {
-            "id": "6504df2e-5748-4e6f-987f-0104a6979bc4",
-            "idStru": "6504df2e-5748-4e6f-987f-0104a6979bc4",
-            "tipoStru": "22185cde-3763-4729-8ed7-31b464b96df2",
-            "idSett": "44b607bf-09a9-4586-a12d-68677a857f3e",
-            "nomeStru": "olistica condivisibile Complessità",
-            "obbiStru": "atque",
-            "dataFirm": "2019-07-13",
-            "dataRegi": "2019-07-03",
-            "sottoscrittori": [
-              {
-                "idStss": "759d868f-4eca-49df-bfbf-dc2d2ae4a8ab",
-                "idSogg": "795ceca6-1222-401c-9885-ff7c55177df5",
-                "denoSogg": "Edilio De rosa"
-              },
-              {
-                "idStss": "5bc0c837-5856-4d74-bc34-54780f86a23b",
-                "idSogg": "21a903aa-dccf-4f32-a0b6-b81806b64313",
-                "denoSogg": "Dott. Fulvio Martinelli"
-              },
-              {
-                "idStss": "4ed487e4-ec61-4a5c-a64a-89ad9870b9da",
-                "idSogg": "241bc594-16aa-4adb-a85d-d23e28228594",
-                "denoSogg": "Rosita Mazza"
-              },
-              {
-                "idStss": "a4fb9c30-46ac-4e36-9ab4-2c0d18d952bc",
-                "idSogg": "e093d315-ee8a-4a50-8e29-70fec8e83def",
-                "denoSogg": "Sig. Kris Palmieri"
-              },
-              {
-                "idStss": "f65a2630-19e5-4d54-89d8-50cc0b0479a7",
-                "idSogg": "3656d836-cff8-404a-b355-b5526da1869d",
-                "denoSogg": "Italo Vitale"
-              },
-              {
-                "idStss": "75deb0d8-4429-4576-8f8b-e593806ebbb4",
-                "idSogg": "281b8286-be0b-450f-9f79-75c041925f0e",
-                "denoSogg": "Kris Ferrari"
-              },
-              {
-                "idStss": "64e7b2da-03b0-460c-bc44-bc3227d725d8",
-                "idSogg": "76aa45cb-1223-46e8-aaec-ea25ddc6779c",
-                "denoSogg": "Ursula Ricci"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              }
-            ],
-            "refeAmmiNome": "Manuele",
-            "refeAmmiCognome": "Martini",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "918fa7b9-0583-471c-8fa0-fcc4b3ec357e",
-                "idBene": "4fe32fc6-cb5c-4dda-a9c7-5db5d5a83f40",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Alessandro",
-                "refeBeneCognome": "Orlando",
-                "teleRefe": "+20 678 38268519",
-                "mailRefe": "Antonino.Grassi@example.net",
-                "pecRefe": "Mauro.Amato5@example.org"
-              },
-              {
-                "idStbe": "854a29b5-0b1f-489a-b96c-dd5d3b605360",
-                "idBene": "23293777-2fd6-4691-bae5-008825b224b0",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Davide",
-                "refeBeneCognome": "De Angelis",
-                "teleRefe": "+39 097 078 562",
-                "mailRefe": "Silvano.Gallo55@example.net",
-                "pecRefe": "Loris_Martini@example.org"
-              },
-              {
-                "idStbe": "3de68276-92ad-4152-9953-80785644d5fb",
-                "idBene": "977c3f50-97c3-4913-aef3-39256ff8eee1",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Fortunata",
-                "refeBeneCognome": "Montanari",
-                "teleRefe": "+76 59 52109046",
-                "mailRefe": "Liborio0@example.org",
-                "pecRefe": "Jack_Sanna@example.org"
-              },
-              {
-                "idStbe": "6028408d-24e0-402c-bb52-d6f51ec0617a",
-                "idBene": "50ecb6e8-2a84-42b5-a89f-4b84d20ba519",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Diana",
-                "refeBeneCognome": "De Angelis",
-                "teleRefe": "+14 57 89512622",
-                "mailRefe": "Miriam.Gentile88@example.com",
-                "pecRefe": "Arturo_Ruggiero71@example.org"
-              },
-              {
-                "idStbe": "40f43494-fb9e-43e5-9775-f025eff52c3b",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Joseph",
-                "refeBeneCognome": "Fontana",
-                "teleRefe": "+12 2887 6659277",
-                "mailRefe": "Maristella76@example.net",
-                "pecRefe": "Fabiano.Basile@example.net"
-              }
-            ],
-            "numeProt": "fc0fbf6f-8477-4f6d-85a3-e3cb528ea20f",
-            "idSito": "9f1a0dc3-5a42-49ff-80f4-4a9d0b37f1b3",
-            "idStruPadr": "43255279-13ee-440e-bb56-1545c4c367ce",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "a93c0eda-88a5-462a-9c65-4b2eda24e450",
-              "flagNazi": 1,
-              "codiGeo": "N",
-              "codiIsta": "34rog2jcmbdd3kp",
-              "codiRegi": "003",
-              "codiProv": "004",
-              "codiComu": "003"
-            },
-            "protApprovStru": "3a1ua3n1zn",
-            "dataProtApprovStru": "2019-05-25",
-            "protAssFinanzStru": "93i4m3r6f5",
-            "dataProtAssFinanzStru": "2019-06-12",
-            "noteStru": "Quos dolore veniam vitae rerum ut beatae earum porro. Dolor ratione debitis rem voluptatem doloremque rerum voluptates delectus repellendus. Provident autem numquam sint. Et asperiores quaerat nobis maiores assumenda. Iusto consequatur architecto esse. Facilis occaecati voluptates natus animi consequatur sint perspiciatis.",
-            "codiStru": "f83f84d9-1280-4366-ad69-109d3834264e",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 1,
-            "statLavoDesc": "Chiuso",
-            "enti": [
-              "Ente 3",
-              "Ente 8",
-              "Ente 6",
-              "Ente 7",
-              "Ente 2"
-            ]
-          },
-          {
-            "id": "5db65ba1-4f7e-4bdc-9ec1-dd991f5cffa6",
-            "idStru": "5db65ba1-4f7e-4bdc-9ec1-dd991f5cffa6",
-            "tipoStru": "b6f8f38c-e561-4274-8c85-e32e3dcc2f5b",
-            "idSett": "41e75cee-0ceb-4180-be38-24b0e83afef8",
-            "nomeStru": "multi-tasking multi-laterale Conglomerato",
-            "obbiStru": "sit",
-            "dataFirm": "2018-09-30",
-            "dataRegi": "2019-06-30",
-            "sottoscrittori": [
-              {
-                "idStss": "0f0e0b6c-644e-454f-9535-ae90fa3fdb07",
-                "idSogg": "436a3e35-b16f-4fb2-94cc-9edbf5797821",
-                "denoSogg": "Michele Parisi"
-              },
-              {
-                "idStss": "f65a2630-19e5-4d54-89d8-50cc0b0479a7",
-                "idSogg": "3656d836-cff8-404a-b355-b5526da1869d",
-                "denoSogg": "Italo Vitale"
-              },
-              {
-                "idStss": "18c62160-c9d0-4be6-9156-e889eacf2a3a",
-                "idSogg": "46754274-0315-4700-9311-935f564955a2",
-                "denoSogg": "Miriana Gentile"
-              },
-              {
-                "idStss": "759d868f-4eca-49df-bfbf-dc2d2ae4a8ab",
-                "idSogg": "795ceca6-1222-401c-9885-ff7c55177df5",
-                "denoSogg": "Edilio De rosa"
-              },
-              {
-                "idStss": "75deb0d8-4429-4576-8f8b-e593806ebbb4",
-                "idSogg": "281b8286-be0b-450f-9f79-75c041925f0e",
-                "denoSogg": "Kris Ferrari"
-              },
-              {
-                "idStss": "5bc0c837-5856-4d74-bc34-54780f86a23b",
-                "idSogg": "21a903aa-dccf-4f32-a0b6-b81806b64313",
-                "denoSogg": "Dott. Fulvio Martinelli"
-              }
-            ],
-            "refeAmmiNome": "Raniero",
-            "refeAmmiCognome": "Marino",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "620c8289-60af-4516-b2d9-6c47fd62fe9d",
-                "idBene": "b3cc0ff0-d980-41f5-814a-d90b5c4c23ad",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Bettino",
-                "refeBeneCognome": "Costantin",
-                "teleRefe": "324 947 444",
-                "mailRefe": "Quasimodo.Costa57@example.org",
-                "pecRefe": "Nazzareno.Martini@example.com"
-              },
-              {
-                "idStbe": "9d4747e1-8787-46db-922d-ec079b19ccd1",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Muzio",
-                "refeBeneCognome": "De rosa",
-                "teleRefe": "+25 866 32 69 1134",
-                "mailRefe": "Mariapia_Palmieri@example.com",
-                "pecRefe": "Arduino44@example.com"
-              },
-              {
-                "idStbe": "b3fbab01-ae77-4e07-a0ed-a7e9f8006a91",
-                "idBene": "50ecb6e8-2a84-42b5-a89f-4b84d20ba519",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Rosalino",
-                "refeBeneCognome": "Amato",
-                "teleRefe": "+75 993 55738325",
-                "mailRefe": "Giacinta.Orlando72@example.net",
-                "pecRefe": "Evangelista_Sala34@example.org"
-              },
-              {
-                "idStbe": "eaa2b0f0-0852-4083-9abd-f40841588fe9",
-                "idBene": "4c7f6b0a-de80-4120-8678-5da1e362891f",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Isabel",
-                "refeBeneCognome": "Rossetti",
-                "teleRefe": "+30 8477 82967625",
-                "mailRefe": "Radio.Caruso43@example.net",
-                "pecRefe": "Armando_Fontana9@example.com"
-              },
-              {
-                "idStbe": "799993dc-3719-41fb-8fab-3b9c747e1b42",
-                "idBene": "977c3f50-97c3-4913-aef3-39256ff8eee1",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Genziana",
-                "refeBeneCognome": "Barbieri",
-                "teleRefe": "+73 6827 16606068",
-                "mailRefe": "Prisca54@example.org",
-                "pecRefe": "Assia_Cattaneo33@example.org"
-              }
-            ],
-            "numeProt": "276c4a07-9879-41fc-8c67-22a8400eaaf4",
-            "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
-            "idStruPadr": "37d19003-1418-4b43-83b3-f639df74032e",
-            "flagSost": 1,
-            "riferimentoGeografico": {
-              "idStge": "6276bc7c-ce5a-4762-b0e0-1e125235cb93",
-              "flagNazi": 1,
-              "codiGeo": "R",
-              "codiIsta": "4tcx2kjp13oykp6",
-              "codiRegi": "000",
-              "codiProv": "006",
-              "codiComu": "006"
-            },
-            "protApprovStru": "uu5of8t292",
-            "dataProtApprovStru": "2019-01-04",
-            "protAssFinanzStru": "irg4d23r6l",
-            "dataProtAssFinanzStru": "2019-03-23",
-            "noteStru": "Aut voluptatem esse enim corporis iste nam culpa dolorem est. Nam quia cupiditate quam. Aperiam blanditiis quis qui et quaerat ut veniam et iusto. Sint voluptatem nam vel voluptates dignissimos et dolorum.",
-            "codiStru": "e09dfce3-8db0-4c50-bf0b-00a9811360bd",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 0,
-            "statStruDesc": "Non attivo",
-            "statLavo": 0,
-            "statLavoDesc": "Aperto",
-            "enti": [
-              "Ente 1",
-              "Ente 2",
-              "Ente 7",
-              "Ente 0",
-              "Ente 6"
-            ]
-          },
-          {
-            "id": "747480ac-6949-4d27-886d-11e9d121413f",
-            "idStru": "747480ac-6949-4d27-886d-11e9d121413f",
-            "tipoStru": "09799fb9-f820-4ab2-9074-ac343b086279",
-            "idSett": "44b607bf-09a9-4586-a12d-68677a857f3e",
-            "nomeStru": "esecutiva robusta Migrazione",
-            "obbiStru": "omnis",
-            "dataFirm": "2018-09-02",
-            "dataRegi": "2019-06-29",
-            "sottoscrittori": [
-              {
-                "idStss": "0f0e0b6c-644e-454f-9535-ae90fa3fdb07",
-                "idSogg": "436a3e35-b16f-4fb2-94cc-9edbf5797821",
-                "denoSogg": "Michele Parisi"
-              },
-              {
-                "idStss": "18c62160-c9d0-4be6-9156-e889eacf2a3a",
-                "idSogg": "46754274-0315-4700-9311-935f564955a2",
-                "denoSogg": "Miriana Gentile"
-              }
-            ],
-            "refeAmmiNome": "Omar",
-            "refeAmmiCognome": "Valentini",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "97cda113-1271-4cd3-b69a-7a287fe0cb01",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Soriana",
-                "refeBeneCognome": "Battaglia",
-                "teleRefe": "+39 339 055 303",
-                "mailRefe": "Prisca_Orlando72@example.com",
-                "pecRefe": "Kris23@example.net"
-              },
-              {
-                "idStbe": "a1162a7e-69cd-4276-b0ca-ae9e21cd6188",
-                "idBene": "6e3651b2-df71-4e21-8748-5308ba7442e9",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Joannes",
-                "refeBeneCognome": "Ferrari",
-                "teleRefe": "+39 378 587 014",
-                "mailRefe": "Elga_Coppola15@example.com",
-                "pecRefe": "Flavio10@example.net"
-              }
-            ],
-            "numeProt": "78717469-2b5a-4721-b998-d5c4de2399bf",
-            "idSito": "b7bef408-df63-455c-b6c5-b4cb689b5170",
-            "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "4c937243-3d82-433d-95b7-8955171a631f",
-              "flagNazi": 1,
-              "codiGeo": "P",
-              "codiIsta": "i7fopacb3vm6ajo",
-              "codiRegi": "003",
-              "codiProv": "001",
-              "codiComu": "004"
-            },
-            "protApprovStru": "qcexj6jb7y",
-            "dataProtApprovStru": "2019-05-14",
-            "protAssFinanzStru": "kpozcrcnbe",
-            "dataProtAssFinanzStru": "2019-06-03",
-            "noteStru": "Repellat sunt soluta et earum. Temporibus earum illum sit vero numquam minima est blanditiis blanditiis. Optio neque excepturi consequatur sapiente omnis deleniti sapiente qui consequatur. Quia quam est enim. Necessitatibus aliquid assumenda.",
-            "codiStru": "4df91c5b-010d-4909-8543-9e54dc3e2d72",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 1,
-            "statLavoDesc": "Chiuso",
-            "enti": [
-              "Ente 2",
-              "Ente 9"
-            ]
-          },
-          {
-            "id": "d35bf0f6-aef7-4138-9397-f5d9d2ad863e",
-            "idStru": "d35bf0f6-aef7-4138-9397-f5d9d2ad863e",
-            "tipoStru": "1089759f-02ba-419e-9bc0-43f11af7de76",
-            "idSett": "97b262d8-a22a-4d55-8aed-dba7415b9f5f",
-            "nomeStru": "basta sul contesto universale Sistema aperto",
-            "obbiStru": "enim",
-            "dataFirm": "2019-03-16",
-            "dataRegi": "2019-06-27",
-            "sottoscrittori": [
-              {
-                "idStss": "756cd1b8-70a5-43a1-9b5c-8b1d34c0c11b",
-                "idSogg": "a90c8191-c53b-4cb5-a867-0c368efac9e7",
-                "denoSogg": "Erminio Parisi"
-              },
-              {
-                "idStss": "4ed487e4-ec61-4a5c-a64a-89ad9870b9da",
-                "idSogg": "241bc594-16aa-4adb-a85d-d23e28228594",
-                "denoSogg": "Rosita Mazza"
-              },
-              {
-                "idStss": "0f0e0b6c-644e-454f-9535-ae90fa3fdb07",
-                "idSogg": "436a3e35-b16f-4fb2-94cc-9edbf5797821",
-                "denoSogg": "Michele Parisi"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              },
-              {
-                "idStss": "8ed1e1a2-2b15-4608-a1a1-3a8af6fa4f96",
-                "idSogg": "1eae061c-8e6b-437d-9e0b-52d5a28d62cd",
-                "denoSogg": "Kai Costa"
-              },
-              {
-                "idStss": "64e7b2da-03b0-460c-bc44-bc3227d725d8",
-                "idSogg": "76aa45cb-1223-46e8-aaec-ea25ddc6779c",
-                "denoSogg": "Ursula Ricci"
-              },
-              {
-                "idStss": "638c1099-3c38-4b71-a14b-53bdf4b25fed",
-                "idSogg": "37d9b4d9-9035-4df0-bf66-80ed89d6aed0",
-                "denoSogg": "Mariagiulia Fior"
-              },
-              {
-                "idStss": "759d868f-4eca-49df-bfbf-dc2d2ae4a8ab",
-                "idSogg": "795ceca6-1222-401c-9885-ff7c55177df5",
-                "denoSogg": "Edilio De rosa"
-              }
-            ],
-            "refeAmmiNome": "Giorgio",
-            "refeAmmiCognome": "Sorrentino",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "bb98250a-3d2e-4aea-ae81-b5f0f55c1312",
-                "idBene": "e4544d5e-6e88-4ac9-bcd3-bee454bf07a3",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Mariano",
-                "refeBeneCognome": "Costa",
-                "teleRefe": "+72 52 5276549",
-                "mailRefe": "Harry13@example.net",
-                "pecRefe": "Vera73@example.org"
-              },
-              {
-                "idStbe": "6ffa01bc-619c-406f-b3bf-9d64597d557e",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Dylan",
-                "refeBeneCognome": "Bianchi",
-                "teleRefe": "061 159 0872",
-                "mailRefe": "Bibiana36@example.org",
-                "pecRefe": "Noah.Monti@example.org"
-              },
-              {
-                "idStbe": "d121f524-8d5b-4d95-9e2b-f69e7c7c43cc",
-                "idBene": "4fe32fc6-cb5c-4dda-a9c7-5db5d5a83f40",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Aaron",
-                "refeBeneCognome": "Colombo",
-                "teleRefe": "+60 42 49353155",
-                "mailRefe": "Maika81@example.org",
-                "pecRefe": "Monia40@example.org"
-              },
-              {
-                "idStbe": "37b87369-fa86-425c-9b60-5dd3e831303c",
-                "idBene": "50ecb6e8-2a84-42b5-a89f-4b84d20ba519",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Radames",
-                "refeBeneCognome": "Barone",
-                "teleRefe": "384 338 469",
-                "mailRefe": "Odone.Donati2@example.com",
-                "pecRefe": "Domiziano.Rizzo@example.net"
-              },
-              {
-                "idStbe": "5c559eb4-dcd4-40c7-99fb-08e9f8c730c2",
-                "idBene": "3e3e1d90-8be2-4832-88cb-c8e7faa04efb",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Omar",
-                "refeBeneCognome": "Grasso",
-                "teleRefe": "396 855 977",
-                "mailRefe": "Ileana_Fior@example.com",
-                "pecRefe": "Lorenzo89@example.net"
-              },
-              {
-                "idStbe": "340457d3-6414-4e33-b01f-b82e39d88b9f",
-                "idBene": "b3cc0ff0-d980-41f5-814a-d90b5c4c23ad",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Giancarlo",
-                "refeBeneCognome": "Pagano",
-                "teleRefe": "300 378 544",
-                "mailRefe": "Muzio_Palumbo@example.org",
-                "pecRefe": "Rosolino_Piras3@example.org"
-              },
-              {
-                "idStbe": "f09ccc35-c7bb-4bd2-b109-f1ca1d7936e8",
-                "idBene": "4c7f6b0a-de80-4120-8678-5da1e362891f",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Raoul",
-                "refeBeneCognome": "Caputo",
-                "teleRefe": "+22 307 49717908",
-                "mailRefe": "Nestore62@example.com",
-                "pecRefe": "Raniero.Bianchi@example.net"
-              }
-            ],
-            "numeProt": "bcddf23a-acac-4420-b3f7-896b3a174903",
-            "idSito": "7159482b-203e-44fd-bf57-1b75edf637cb",
-            "idStruPadr": "37d19003-1418-4b43-83b3-f639df74032e",
-            "flagSost": 1,
-            "riferimentoGeografico": {
-              "idStge": "ae776755-ca74-47b0-a4ba-b517e3f0974f",
-              "flagNazi": 1,
-              "codiGeo": "R",
-              "codiIsta": "5pagkhagvtigurn",
+              "codiIsta": "nq0nl0hsfizlaco",
               "codiRegi": "001",
-              "codiProv": "000",
-              "codiComu": "003"
-            },
-            "protApprovStru": "x2njoes6nx",
-            "dataProtApprovStru": "2019-03-16",
-            "protAssFinanzStru": "kntw1irnxk",
-            "dataProtAssFinanzStru": "2019-05-17",
-            "noteStru": "Quia aut quaerat ut totam et. Unde assumenda vel perferendis. Nulla quis sit quo. Ipsam aliquid maxime doloremque neque sunt dicta. Sed quia debitis pariatur omnis soluta quo.",
-            "codiStru": "c688885f-7079-467e-b2aa-f866af3ba1a8",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 0,
-            "statLavoDesc": "Aperto",
-            "enti": [
-              "Ente 5",
-              "Ente 2",
-              "Ente 3",
-              "Ente 7",
-              "Ente 4",
-              "Ente 1",
-              "Ente 0"
-            ]
-          },
-          {
-            "id": "d2f1697e-3fec-4331-9d42-d377747002d1",
-            "idStru": "d2f1697e-3fec-4331-9d42-d377747002d1",
-            "tipoStru": "e948b9a7-d7ec-4fb7-bd63-a34aa26cc11c",
-            "idSett": "44b607bf-09a9-4586-a12d-68677a857f3e",
-            "nomeStru": "coerente reattiva Sovrastruttura",
-            "obbiStru": "harum",
-            "dataFirm": "2018-09-20",
-            "dataRegi": "2019-06-22",
-            "sottoscrittori": [
-              {
-                "idStss": "10003aeb-c0b5-4cdc-98bb-ef3e746aa45e",
-                "idSogg": "851c97a3-64e8-4f67-b4ca-78310412ba3f",
-                "denoSogg": "Diana Ferretti"
-              },
-              {
-                "idStss": "18c62160-c9d0-4be6-9156-e889eacf2a3a",
-                "idSogg": "46754274-0315-4700-9311-935f564955a2",
-                "denoSogg": "Miriana Gentile"
-              }
-            ],
-            "refeAmmiNome": "Abramo",
-            "refeAmmiCognome": "Ricci",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "11bfacfa-9177-425e-ae88-01c5cbd15f4a",
-                "idBene": "29fd0145-14d8-46ec-bbf4-da6dbea813a5",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Serse",
-                "refeBeneCognome": "Ricci",
-                "teleRefe": "+73 705 25385712",
-                "mailRefe": "Lucrezia58@example.org",
-                "pecRefe": "Soriana89@example.org"
-              },
-              {
-                "idStbe": "4716c11f-6d6c-4de7-871e-ae3d7e9cab53",
-                "idBene": "e4544d5e-6e88-4ac9-bcd3-bee454bf07a3",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Bortolo",
-                "refeBeneCognome": "Amato",
-                "teleRefe": "+93 329 99 93 9527",
-                "mailRefe": "Cassiopea_Lombardi@example.org",
-                "pecRefe": "Kayla11@example.net"
-              },
-              {
-                "idStbe": "3bf25e03-5511-4535-ba36-903b74b87f81",
-                "idBene": "23293777-2fd6-4691-bae5-008825b224b0",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Nazzareno",
-                "refeBeneCognome": "De Santis",
-                "teleRefe": "+39 316 027 945",
-                "mailRefe": "Joey20@example.net",
-                "pecRefe": "Fernando37@example.org"
-              },
-              {
-                "idStbe": "244380f6-7ad7-4c86-ad96-d900f4a5b5cb",
-                "idBene": "50ecb6e8-2a84-42b5-a89f-4b84d20ba519",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Olo",
-                "refeBeneCognome": "De rosa",
-                "teleRefe": "+59 11 04906325",
-                "mailRefe": "Caligola_Monti55@example.net",
-                "pecRefe": "Giorgio25@example.net"
-              },
-              {
-                "idStbe": "80f2725b-2184-46d6-8361-2be0b6d7717c",
-                "idBene": "6e3651b2-df71-4e21-8748-5308ba7442e9",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Mirco",
-                "refeBeneCognome": "Rossetti",
-                "teleRefe": "385 158 491",
-                "mailRefe": "Fortunata.Colombo27@example.net",
-                "pecRefe": "Germano.Leone77@example.com"
-              }
-            ],
-            "numeProt": "d199116b-f683-43db-9baa-f5e262614f83",
-            "idSito": "b7bef408-df63-455c-b6c5-b4cb689b5170",
-            "idStruPadr": "43255279-13ee-440e-bb56-1545c4c367ce",
-            "flagSost": 1,
-            "riferimentoGeografico": {
-              "idStge": "46adcba3-6e55-4358-953a-00db1011e6ec",
-              "flagNazi": 1,
-              "codiGeo": "P",
-              "codiIsta": "xxz6hn6lghb3vat",
-              "codiRegi": "003",
-              "codiProv": "000",
+              "codiProv": "103",
               "codiComu": "001"
             },
-            "protApprovStru": "tn761q3msg",
-            "dataProtApprovStru": "2019-03-20",
-            "protAssFinanzStru": "ug28a0391t",
-            "dataProtAssFinanzStru": "2018-09-04",
-            "noteStru": "Optio sapiente alias repellat natus quis enim. Id nihil harum officia omnis cupiditate libero et molestias.",
-            "codiStru": "a6993f92-06eb-416a-9310-a6ee4651d351",
-            "statInse": 1,
-            "statInseDesc": "Definitivo",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 0,
-            "statLavoDesc": "Aperto",
-            "enti": [
-              "Ente 2",
-              "Ente 5",
-              "Ente 8",
-              "Ente 7",
-              "Ente 9"
-            ]
-          },
-          {
-            "id": "d38bb7de-3048-4214-9b81-8c4fab283880",
-            "idStru": "d38bb7de-3048-4214-9b81-8c4fab283880",
-            "tipoStru": "b6f8f38c-e561-4274-8c85-e32e3dcc2f5b",
-            "idSett": "d8a7141b-3fee-454c-9cbc-001973964b76",
-            "nomeStru": "bi-direzionale open-source Orchestrazione",
-            "obbiStru": "necessitatibus",
-            "dataFirm": "2019-06-15",
-            "dataRegi": "2019-06-19",
-            "sottoscrittori": [
-              {
-                "idStss": "2cd8220d-285c-428c-a1db-36e32f0bbdbb",
-                "idSogg": "91d1d7ee-2c0e-4e1f-85eb-36f989bbde08",
-                "denoSogg": "Jacopo Morelli"
-              },
-              {
-                "idStss": "64e7b2da-03b0-460c-bc44-bc3227d725d8",
-                "idSogg": "76aa45cb-1223-46e8-aaec-ea25ddc6779c",
-                "denoSogg": "Ursula Ricci"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              },
-              {
-                "idStss": "638c1099-3c38-4b71-a14b-53bdf4b25fed",
-                "idSogg": "37d9b4d9-9035-4df0-bf66-80ed89d6aed0",
-                "denoSogg": "Mariagiulia Fior"
-              },
-              {
-                "idStss": "75deb0d8-4429-4576-8f8b-e593806ebbb4",
-                "idSogg": "281b8286-be0b-450f-9f79-75c041925f0e",
-                "denoSogg": "Kris Ferrari"
-              }
-            ],
-            "refeAmmiNome": "Rosita",
-            "refeAmmiCognome": "Orlando",
-            "datiReferenteBeneficiario": [
-              {
-                "idStbe": "ea96cb02-0f53-400a-8583-e852fde83f5e",
-                "idBene": "50ecb6e8-2a84-42b5-a89f-4b84d20ba519",
-                "primoBeneficiaro": true,
-                "refeBeneNome": "Michael",
-                "refeBeneCognome": "Ferrara",
-                "teleRefe": "058 095 1538",
-                "mailRefe": "Noel_Pellegrino@example.org",
-                "pecRefe": "Enrico.DeAngelis@example.com"
-              },
-              {
-                "idStbe": "08aa4999-1a2a-4021-8d03-4995b8710929",
-                "idBene": "e4544d5e-6e88-4ac9-bcd3-bee454bf07a3",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Serse",
-                "refeBeneCognome": "Martini",
-                "teleRefe": "+69 3573 62818584",
-                "mailRefe": "Mietta51@example.com",
-                "pecRefe": "Luna_Colombo19@example.org"
-              },
-              {
-                "idStbe": "66c08ebf-518f-4e41-8404-84fd6bc66b74",
-                "idBene": "6e3651b2-df71-4e21-8748-5308ba7442e9",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Jari",
-                "refeBeneCognome": "Gallo",
-                "teleRefe": "+39 030 908 255",
-                "mailRefe": "Azue_Galli@example.com",
-                "pecRefe": "Jari41@example.net"
-              },
-              {
-                "idStbe": "c66294ce-b255-4a32-8e6c-4f451a0cee35",
-                "idBene": "b3cc0ff0-d980-41f5-814a-d90b5c4c23ad",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Xavier",
-                "refeBeneCognome": "Gentile",
-                "teleRefe": "+62 4686 8900212",
-                "mailRefe": "Adriano96@example.com",
-                "pecRefe": "Shaira89@example.org"
-              },
-              {
-                "idStbe": "5ba17417-f334-4e53-8ebf-b8b02bbe785b",
-                "idBene": "4c7f6b0a-de80-4120-8678-5da1e362891f",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Bibiana",
-                "refeBeneCognome": "Romano",
-                "teleRefe": "+32 973 69839093",
-                "mailRefe": "Gaetano45@example.com",
-                "pecRefe": "Nabil.Sanna62@example.org"
-              },
-              {
-                "idStbe": "1946eba4-3847-4a00-9cbe-77fdb98a26d1",
-                "idBene": "23293777-2fd6-4691-bae5-008825b224b0",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Graziano",
-                "refeBeneCognome": "Valentini",
-                "teleRefe": "+42 26 60848430",
-                "mailRefe": "Sebastian68@example.net",
-                "pecRefe": "Edipo_Marian@example.com"
-              },
-              {
-                "idStbe": "9138fe15-906f-4752-9249-804c17eacd56",
-                "idBene": "3e3e1d90-8be2-4832-88cb-c8e7faa04efb",
-                "primoBeneficiaro": false,
-                "refeBeneNome": "Kayla",
-                "refeBeneCognome": "Sartori",
-                "teleRefe": "+97 3032 79908956",
-                "mailRefe": "Nazzareno14@example.com",
-                "pecRefe": "Lamberto95@example.org"
-              }
-            ],
-            "numeProt": "4cc4ad61-1789-4ea8-b8f6-1a0a19e369f3",
-            "idSito": "dc9482bb-680a-490d-845d-38c8999c2dad",
-            "idStruPadr": "9b526886-a6bb-466d-a07f-0b729ef2a85a",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "97652363-e330-4e29-9bfa-1ec51172205f",
+            {
+              "idStge": "ba64712f-07e7-40b0-ac1a-0395fc83ddd7",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "pzsmf8og7dfy8h0",
+              "codiRegi": "001",
+              "codiProv": "096",
+              "codiComu": "001"
+            },
+            {
+              "idStge": "84a0516e-99e8-45bf-8ab8-8dbf05b21700",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "ztipg99mxj6hqk8",
+              "codiRegi": "007",
+              "codiProv": "008",
+              "codiComu": "001"
+            },
+            {
+              "idStge": "64418cf4-298a-4399-9a62-58639375a44c",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "p5vk6qo2gs2eclq",
+              "codiRegi": "007",
+              "codiProv": "010",
+              "codiComu": "001"
+            }
+          ],
+          "protApprovStru": "gc5yhxgz8t",
+          "dataProtApprovStru": "2019-01-22",
+          "protAssFinanzStru": "s2h1cnlcx9",
+          "dataProtAssFinanzStru": "2019-07-04",
+          "noteStru": "Non fugiat eos quo itaque voluptates omnis. Corporis sit quasi consequuntur et impedit aspernatur ipsam. Aut iure repellendus alias accusantium rerum accusamus quam esse aut. Eum aliquam mollitia consequatur placeat maiores odio voluptatem deserunt dolores. Reprehenderit similique earum occaecati dolorem. Recusandae sunt excepturi reiciendis.",
+          "codiStru": "7cd5c83d-f87e-4c43-a545-67cb583c0401",
+          "statInse": 1,
+          "statInseDesc": "Definitivo",
+          "statStru": 1,
+          "statStruDesc": "Attivo",
+          "statLavo": 1,
+          "statLavoDesc": "Chiuso",
+          "enti": [
+            "Ente 8",
+            "Ente 3",
+            "Ente 6",
+            "Ente 7",
+            "Ente 5"
+          ]
+        },
+        {
+          "id": "3e6c6e23-9d9e-43b5-8e8b-98d568f8a7c4",
+          "idStru": "3e6c6e23-9d9e-43b5-8e8b-98d568f8a7c4",
+          "tipoStru": "87bd51d5-b267-4798-bec1-b47b34305667",
+          "idSett": "07eb0c99-728e-45c4-bb28-f8851736a640",
+          "nomeStru": "direzionale migliorata Funzionalità",
+          "obbiStru": "labore",
+          "dataFirm": "2019-05-31",
+          "dataRegi": "2019-07-12",
+          "sottoscrittori": [
+            {
+              "idStss": "51f11f25-0d64-4d39-be3c-a111a3192e44",
+              "idSogg": "352542aa-3188-46a0-924d-565dd911651d",
+              "denoSogg": "Elda Grassi"
+            }
+          ],
+          "refeAmmiNome": "Nadir",
+          "refeAmmiCognome": "Romano",
+          "datiReferenteBeneficiario": [],
+          "numeProt": "6a46b7f9-948c-4444-a611-a292a81fb181",
+          "idSito": "dca162b9-34b0-452b-ac81-bb0d375f7be4",
+          "idStruPadr": "102a62b1-9142-4ada-967e-921fe458d401",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "fa7d8677-bf23-4f1d-b53e-6ea9451b9a93",
               "flagNazi": 1,
               "codiGeo": "N",
-              "codiIsta": "yi7gbpzsjscdzd4",
-              "codiRegi": "003",
-              "codiProv": "001",
-              "codiComu": "001"
+              "codiIsta": "libtzxd1y87316m",
+              "codiRegi": "",
+              "codiProv": "",
+              "codiComu": "003"
+            }
+          ],
+          "protApprovStru": "yuj0my48cc",
+          "dataProtApprovStru": "2019-02-11",
+          "protAssFinanzStru": "7r0r61pe87",
+          "dataProtAssFinanzStru": "2019-03-07",
+          "noteStru": "Suscipit earum dolores voluptate et rerum. Adipisci laborum qui sit ut aut ducimus debitis. Rerum qui voluptatem. Voluptates numquam repellendus. Et natus cupiditate rem iste unde dolore qui. Nihil rerum odit.",
+          "codiStru": "cc183275-999f-4936-b0bd-4821b2426e23",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 1,
+          "statStruDesc": "Attivo",
+          "statLavo": 1,
+          "statLavoDesc": "Chiuso",
+          "enti": []
+        },
+        {
+          "id": "fc8cadfc-9799-4163-b765-02c44beabcb9",
+          "idStru": "fc8cadfc-9799-4163-b765-02c44beabcb9",
+          "tipoStru": "8a5330d2-4ef2-4413-a64f-afec83d8b9d2",
+          "idSett": "b35cf678-b48c-4412-9a87-8106ba9262af",
+          "nomeStru": "direzionale configurabile Applicazione",
+          "obbiStru": "molestiae",
+          "dataFirm": "2018-11-22",
+          "dataRegi": "2019-07-10",
+          "sottoscrittori": [
+            {
+              "idStss": "3432df4f-1d42-4197-a6a7-4d4fe69ce9cf",
+              "idSogg": "f8aaffa6-e397-4195-b3fc-ffeda5bcb3bb",
+              "denoSogg": "Giulietta Bianchi"
             },
-            "protApprovStru": "3jnahvrfm9",
-            "dataProtApprovStru": "2019-06-22",
-            "protAssFinanzStru": "fb9ye0ktid",
-            "dataProtAssFinanzStru": "2019-04-04",
-            "noteStru": "Inventore ut incidunt ut consectetur quis adipisci voluptatibus ut magnam. Delectus expedita velit culpa quo et. Porro accusamus nobis occaecati quas dolores alias. Voluptas nisi impedit eligendi cupiditate possimus consequatur.",
-            "codiStru": "2fc6f386-4d8b-4363-95c7-4ab7634aee56",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 0,
-            "statLavoDesc": "Aperto",
-            "enti": [
-              "Ente 7",
-              "Ente 5",
-              "Ente 9",
-              "Ente 1",
-              "Ente 0",
-              "Ente 8",
-              "Ente 4"
-            ]
-          },
-          {
-            "id": "e6f377fd-9718-4aff-a356-9e6429c1727d",
-            "idStru": "e6f377fd-9718-4aff-a356-9e6429c1727d",
-            "tipoStru": "b6f8f38c-e561-4274-8c85-e32e3dcc2f5b",
-            "idSett": "d8a7141b-3fee-454c-9cbc-001973964b76",
-            "nomeStru": "stabile digitalizzata Portale",
-            "obbiStru": "velit",
-            "dataFirm": "2018-09-10",
-            "dataRegi": "2019-06-03",
-            "sottoscrittori": [],
-            "refeAmmiNome": "Radio",
-            "refeAmmiCognome": "Bellini",
-            "datiReferenteBeneficiario": [],
-            "numeProt": "09b5aaa7-1922-49b6-b56c-e61dc0242600",
-            "idSito": "89323d67-8eed-4954-99ca-4b9821e31edd",
-            "idStruPadr": "1bcb1e92-1e72-4407-927b-eb8b3996a8dd",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "b233708e-d4bf-464b-b703-6dc3804ef2f4",
-              "flagNazi": 1,
+            {
+              "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+              "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+              "denoSogg": "Ivano Fior"
+            },
+            {
+              "idStss": "3ed139cd-f7c0-4d77-891f-fbe6ef0a5910",
+              "idSogg": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+              "denoSogg": "Enrico Ferrari"
+            },
+            {
+              "idStss": "dd537a3e-1273-4d46-9466-169845d6cc23",
+              "idSogg": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+              "denoSogg": "Cecco Montanari"
+            },
+            {
+              "idStss": "d58f2b12-ab3c-4f72-835c-9f18a457c3e6",
+              "idSogg": "faf9f8f3-21e5-44a7-9ff3-b7b295ff34e5",
+              "denoSogg": "Jack Orlando"
+            },
+            {
+              "idStss": "94ec27d8-6ae5-455f-a86f-50e59618588c",
+              "idSogg": "5f603e50-8077-4fc7-81f6-2ca48ba8711a",
+              "denoSogg": "Sirio Costantin"
+            },
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            },
+            {
+              "idStss": "51f11f25-0d64-4d39-be3c-a111a3192e44",
+              "idSogg": "352542aa-3188-46a0-924d-565dd911651d",
+              "denoSogg": "Elda Grassi"
+            }
+          ],
+          "refeAmmiNome": "Maruska",
+          "refeAmmiCognome": "Longo",
+          "datiReferenteBeneficiario": [],
+          "numeProt": "abd6e206-a9a2-47df-a7f7-e74ecf9693fb",
+          "idSito": "bd186cb1-04ee-4d7e-aad9-20ddd72c329a",
+          "idStruPadr": "e0ea7053-c974-45e9-83df-cb94725b2152",
+          "flagSost": 0,
+          "riferimentiGeografici": [
+            {
+              "idStge": "0e1c43ef-bfd7-47eb-8f63-f9141a3042d0",
+              "flagNazi": 0,
               "codiGeo": "R",
-              "codiIsta": "3fcdukcjp0051ux",
+              "codiIsta": "7lcf00b6gq8fku8",
+              "codiRegi": "001",
+              "codiProv": "",
+              "codiComu": "000"
+            },
+            null,
+            {
+              "idStge": "bf77ae2e-b7db-495c-8d50-f24cdd782626",
+              "flagNazi": 0,
+              "codiGeo": "R",
+              "codiIsta": "tb5w8fkcpnvxin8",
+              "codiRegi": "006",
+              "codiProv": "",
+              "codiComu": "000"
+            }
+          ],
+          "protApprovStru": "nlit0z8ae1",
+          "dataProtApprovStru": "2019-06-27",
+          "protAssFinanzStru": "keb5ddwhtw",
+          "dataProtAssFinanzStru": "2019-06-04",
+          "noteStru": "Tenetur labore beatae quia aut. Ipsa officia dolorem esse dolorem. Est ab et consequatur deleniti. Ut repudiandae explicabo. Fugit incidunt aut quaerat id suscipit recusandae sed. Velit modi totam quibusdam unde nulla sint voluptatem ratione.",
+          "codiStru": "99341e29-5eda-4ee2-9137-3f786314c34b",
+          "statInse": 1,
+          "statInseDesc": "Definitivo",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": []
+        },
+        {
+          "id": "c07904c9-0fd6-4f81-8675-054c696e1c70",
+          "idStru": "c07904c9-0fd6-4f81-8675-054c696e1c70",
+          "tipoStru": "87bd51d5-b267-4798-bec1-b47b34305667",
+          "idSett": "82bbe20f-e478-4202-92b7-f598cde17172",
+          "nomeStru": "mission-critical universale Moratoria",
+          "obbiStru": "voluptatem",
+          "dataFirm": "2018-11-23",
+          "dataRegi": "2019-07-09",
+          "sottoscrittori": [
+            {
+              "idStss": "448a1a00-326e-48c9-a634-3af6f15d8c51",
+              "idSogg": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+              "denoSogg": "Dindo Battaglia"
+            },
+            {
+              "idStss": "b0c4fa87-ad04-4f5c-87a0-ef2fbda9d5ba",
+              "idSogg": "a80bed7a-f3bc-43b0-b1e6-d5cf0042357e",
+              "denoSogg": "Pierfrancesco Guerra"
+            }
+          ],
+          "refeAmmiNome": "Bibiana",
+          "refeAmmiCognome": "Marini",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "4339a8a5-03e1-4585-a1e7-6bc4be4812e9",
+              "idBene": "f50d63e8-c084-4356-a1f3-e45222fe5d10",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Iacopo",
+              "refeBeneCognome": "Farin",
+              "teleRefe": "+86 81 25409786",
+              "mailRefe": "Antonino74@example.net",
+              "pecRefe": "Arduino93@example.org"
+            },
+            {
+              "idStbe": "d09b5c5c-1b7c-47af-86da-c809089980ad",
+              "idBene": "27accf1e-d09e-4829-a616-4602880600be",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Audenico",
+              "refeBeneCognome": "Bellini",
+              "teleRefe": "+39 019 130 185",
+              "mailRefe": "Umberto.Romano@example.com",
+              "pecRefe": "Arturo6@example.net"
+            },
+            {
+              "idStbe": "efaeba3e-8eb6-429a-8522-62a84bc7b391",
+              "idBene": "ef601d96-9aee-469e-90b6-31fa3d86c80f",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Clea",
+              "refeBeneCognome": "Barone",
+              "teleRefe": "+48 65 90654598",
+              "mailRefe": "Domiziano_Valentini49@example.net",
+              "pecRefe": "Miriana.Longo@example.org"
+            }
+          ],
+          "numeProt": "b81efacf-873a-4dce-896d-5e5d4ccabf6a",
+          "idSito": "dca162b9-34b0-452b-ac81-bb0d375f7be4",
+          "idStruPadr": "102a62b1-9142-4ada-967e-921fe458d401",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "ba3f0762-a254-4870-b2df-8331a931d860",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "ex3xy54246bi5nj",
               "codiRegi": "001",
               "codiProv": "005",
               "codiComu": "003"
             },
-            "protApprovStru": "3lmbpdyd21",
-            "dataProtApprovStru": "2019-03-22",
-            "protAssFinanzStru": "yxmyfrpfzf",
-            "dataProtAssFinanzStru": "2019-04-26",
-            "noteStru": "Non nobis quis voluptatibus aut ad illum labore facilis itaque. Non occaecati quasi cum molestias pariatur rerum temporibus. Ut possimus exercitationem voluptas voluptatibus autem voluptatem et.",
-            "codiStru": "40ce97c5-b0d3-4e37-8a90-2b750ffafbb8",
-            "statInse": 0,
-            "statInseDesc": "Bozza",
-            "statStru": 0,
-            "statStruDesc": "Non attivo",
-            "statLavo": 1,
-            "statLavoDesc": "Chiuso",
-            "enti": []
-          },
-          {
-            "id": "c9888ffd-7eb4-4d42-a26f-9ea2ebe20969",
-            "idStru": "c9888ffd-7eb4-4d42-a26f-9ea2ebe20969",
-            "tipoStru": "1089759f-02ba-419e-9bc0-43f11af7de76",
-            "idSett": "97b262d8-a22a-4d55-8aed-dba7415b9f5f",
-            "nomeStru": "modulare progressiva Implementazione",
-            "obbiStru": "est",
-            "dataFirm": "2018-08-26",
-            "dataRegi": "2019-05-31",
-            "sottoscrittori": [
-              {
-                "idStss": "10003aeb-c0b5-4cdc-98bb-ef3e746aa45e",
-                "idSogg": "851c97a3-64e8-4f67-b4ca-78310412ba3f",
-                "denoSogg": "Diana Ferretti"
-              },
-              {
-                "idStss": "759d868f-4eca-49df-bfbf-dc2d2ae4a8ab",
-                "idSogg": "795ceca6-1222-401c-9885-ff7c55177df5",
-                "denoSogg": "Edilio De rosa"
-              },
-              {
-                "idStss": "75deb0d8-4429-4576-8f8b-e593806ebbb4",
-                "idSogg": "281b8286-be0b-450f-9f79-75c041925f0e",
-                "denoSogg": "Kris Ferrari"
-              },
-              {
-                "idStss": "8ed1e1a2-2b15-4608-a1a1-3a8af6fa4f96",
-                "idSogg": "1eae061c-8e6b-437d-9e0b-52d5a28d62cd",
-                "denoSogg": "Kai Costa"
-              },
-              {
-                "idStss": "64e7b2da-03b0-460c-bc44-bc3227d725d8",
-                "idSogg": "76aa45cb-1223-46e8-aaec-ea25ddc6779c",
-                "denoSogg": "Ursula Ricci"
-              },
-              {
-                "idStss": "b7ffa969-cd15-41d6-9441-a500c15250cb",
-                "idSogg": "1ad673ad-e35d-4338-8fd2-f63baa1507f2",
-                "denoSogg": "Ermes D'amico"
-              },
-              {
-                "idStss": "756cd1b8-70a5-43a1-9b5c-8b1d34c0c11b",
-                "idSogg": "a90c8191-c53b-4cb5-a867-0c368efac9e7",
-                "denoSogg": "Erminio Parisi"
-              },
-              {
-                "idStss": "2cd8220d-285c-428c-a1db-36e32f0bbdbb",
-                "idSogg": "91d1d7ee-2c0e-4e1f-85eb-36f989bbde08",
-                "denoSogg": "Jacopo Morelli"
-              }
-            ],
-            "refeAmmiNome": "Rufo",
-            "refeAmmiCognome": "Bernardi",
-            "datiReferenteBeneficiario": [],
-            "numeProt": "9b37ceda-db94-4b6d-b129-2d0ecf0e6140",
-            "idSito": "89323d67-8eed-4954-99ca-4b9821e31edd",
-            "idStruPadr": "1bcb1e92-1e72-4407-927b-eb8b3996a8dd",
-            "flagSost": 0,
-            "riferimentoGeografico": {
-              "idStge": "67afbb3e-d912-4cae-ac65-837109266e2a",
-              "flagNazi": 1,
+            {
+              "idStge": "dc4f4048-38e2-4181-b24b-2c5f1d026989",
+              "flagNazi": 0,
               "codiGeo": "P",
-              "codiIsta": "7u2sv9ti7q39f57",
-              "codiRegi": "001",
-              "codiProv": "006",
+              "codiIsta": "ivwyycimzc9vuxb",
+              "codiRegi": "007",
+              "codiProv": "009",
+              "codiComu": "003"
+            },
+            {
+              "idStge": "a639c946-048a-4b71-b452-cb6eb7a66a34",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "8fzwpzxkfaanjjs",
+              "codiRegi": "007",
+              "codiProv": "010",
+              "codiComu": "003"
+            }
+          ],
+          "protApprovStru": "0fhjnbwjz7",
+          "dataProtApprovStru": "2018-07-31",
+          "protAssFinanzStru": "quuynjqo4m",
+          "dataProtAssFinanzStru": "2018-11-07",
+          "noteStru": "Enim natus iste eum sapiente eaque aut. Cupiditate laboriosam repudiandae nihil et qui eius. Dignissimos at qui. Ducimus voluptatem ut quisquam excepturi voluptatibus. Et vel consequatur.",
+          "codiStru": "c615d2ad-9942-46d8-902a-c4ad9c2bbb63",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 1,
+          "statStruDesc": "Attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": [
+            "Ente 1",
+            "Ente 3",
+            "Ente 0"
+          ]
+        },
+        {
+          "id": "d2e6713a-714c-4175-893a-81117e45bb11",
+          "idStru": "d2e6713a-714c-4175-893a-81117e45bb11",
+          "tipoStru": "095c0c57-5806-43e6-bff7-20767de2db76",
+          "idSett": "b35cf678-b48c-4412-9a87-8106ba9262af",
+          "nomeStru": "basta sul contesto integrata Struttura di prezzo",
+          "obbiStru": "at",
+          "dataFirm": "2018-12-18",
+          "dataRegi": "2019-07-07",
+          "sottoscrittori": [
+            {
+              "idStss": "b0c4fa87-ad04-4f5c-87a0-ef2fbda9d5ba",
+              "idSogg": "a80bed7a-f3bc-43b0-b1e6-d5cf0042357e",
+              "denoSogg": "Pierfrancesco Guerra"
+            },
+            {
+              "idStss": "05ed356f-2b63-4820-904d-61cd04fa0802",
+              "idSogg": "69762a5c-96d2-4906-9cb3-585cc939cbb6",
+              "denoSogg": "Ing. Anselmo Bruno"
+            },
+            {
+              "idStss": "3ed139cd-f7c0-4d77-891f-fbe6ef0a5910",
+              "idSogg": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+              "denoSogg": "Enrico Ferrari"
+            },
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            },
+            {
+              "idStss": "51f11f25-0d64-4d39-be3c-a111a3192e44",
+              "idSogg": "352542aa-3188-46a0-924d-565dd911651d",
+              "denoSogg": "Elda Grassi"
+            }
+          ],
+          "refeAmmiNome": "Damiano",
+          "refeAmmiCognome": "Ferraro",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "5f6aead1-0923-4b5d-89c6-a55ad0a0711b",
+              "idBene": "b8212af7-9ace-4435-b9a7-1cfb47bd6b1b",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Tolomeo",
+              "refeBeneCognome": "Ruggiero",
+              "teleRefe": "+39 036 758 485",
+              "mailRefe": "Jacopo.Colombo@example.org",
+              "pecRefe": "Tancredi_Benedetti84@example.net"
+            },
+            {
+              "idStbe": "b89382e6-5078-4cc8-8f84-b7fd01e264fa",
+              "idBene": "ea5fd3bd-d38f-4aa6-becd-8c319116e5e7",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Giacinta",
+              "refeBeneCognome": "Monti",
+              "teleRefe": "328 789 788",
+              "mailRefe": "Helga_Martini48@example.com",
+              "pecRefe": "Radio37@example.net"
+            },
+            {
+              "idStbe": "63552c39-2732-49c9-8288-522b1ca895d4",
+              "idBene": "ef601d96-9aee-469e-90b6-31fa3d86c80f",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Antimo",
+              "refeBeneCognome": "Moretti",
+              "teleRefe": "+66 0821 70278058",
+              "mailRefe": "Lucia30@example.com",
+              "pecRefe": "Vitalba.Orlando@example.com"
+            },
+            {
+              "idStbe": "5ebfa559-fc99-4899-a9b7-1724d4ff1a02",
+              "idBene": "27accf1e-d09e-4829-a616-4602880600be",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Jack",
+              "refeBeneCognome": "Ferraro",
+              "teleRefe": "059 459 8182",
+              "mailRefe": "Edipo.Silvestri@example.net",
+              "pecRefe": "Marco_Costantin86@example.com"
+            },
+            {
+              "idStbe": "af4d6c35-da52-4fe4-bc59-39ac3867aace",
+              "idBene": "c100e078-a979-4e99-be2d-635576374d45",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Emilia",
+              "refeBeneCognome": "De Angelis",
+              "teleRefe": "+05 203 58 81 7740",
+              "mailRefe": "Loris_Grassi74@example.com",
+              "pecRefe": "Romeo.Santoro10@example.org"
+            }
+          ],
+          "numeProt": "3c722329-b190-435d-a5ee-9db2ca3678e6",
+          "idSito": "7a40f0d4-d3b2-4138-9bf2-5d8584fd9c91",
+          "idStruPadr": "19144831-8e62-4089-b882-1435f0c6225c",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "34630e1f-56a0-47a6-ba43-563f3e9875ab",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "osbzz8chln0auuj",
+              "codiRegi": "010",
+              "codiProv": "054",
+              "codiComu": "004"
+            },
+            {
+              "idStge": "68ecf1d0-53df-4b26-8312-74cde47229f3",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "48k0gznh824yx86",
+              "codiRegi": "003",
+              "codiProv": "015",
+              "codiComu": "004"
+            },
+            {
+              "idStge": "eecc9a5d-fff6-47dd-a925-e2d3e81b0d52",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "sm4kzq5ebpc2opw",
+              "codiRegi": "003",
+              "codiProv": "020",
+              "codiComu": "004"
+            }
+          ],
+          "protApprovStru": "l8prct4t57",
+          "dataProtApprovStru": "2018-09-29",
+          "protAssFinanzStru": "tpxj4fem0s",
+          "dataProtAssFinanzStru": "2018-11-12",
+          "noteStru": "Facilis iure maxime non esse. Ullam quisquam saepe illo aperiam veniam culpa dolore optio beatae. Sequi ad dolorum. Sapiente nisi possimus est iste. Reprehenderit qui enim assumenda qui quas expedita illum facere.",
+          "codiStru": "35396b92-3dd8-4a5c-8a6d-59510289624a",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 1,
+          "statLavoDesc": "Chiuso",
+          "enti": [
+            "Ente 5",
+            "Ente 2",
+            "Ente 0",
+            "Ente 3",
+            "Ente 8"
+          ]
+        },
+        {
+          "id": "0afffa59-d61a-4914-b795-0fe6522ac4a8",
+          "idStru": "0afffa59-d61a-4914-b795-0fe6522ac4a8",
+          "tipoStru": "095c0c57-5806-43e6-bff7-20767de2db76",
+          "idSett": "07eb0c99-728e-45c4-bb28-f8851736a640",
+          "nomeStru": "ibrida ricontestualizzata Rete",
+          "obbiStru": "quis",
+          "dataFirm": "2018-11-15",
+          "dataRegi": "2019-07-01",
+          "sottoscrittori": [
+            {
+              "idStss": "3102737d-f4da-4d44-a339-715307110504",
+              "idSogg": "3e0a2ebc-8d37-4121-a7ca-81b0b27386aa",
+              "denoSogg": "Fiorentino Bianc"
+            },
+            {
+              "idStss": "3ed139cd-f7c0-4d77-891f-fbe6ef0a5910",
+              "idSogg": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+              "denoSogg": "Enrico Ferrari"
+            },
+            {
+              "idStss": "94ec27d8-6ae5-455f-a86f-50e59618588c",
+              "idSogg": "5f603e50-8077-4fc7-81f6-2ca48ba8711a",
+              "denoSogg": "Sirio Costantin"
+            },
+            {
+              "idStss": "d58f2b12-ab3c-4f72-835c-9f18a457c3e6",
+              "idSogg": "faf9f8f3-21e5-44a7-9ff3-b7b295ff34e5",
+              "denoSogg": "Jack Orlando"
+            },
+            {
+              "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+              "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+              "denoSogg": "Ivano Fior"
+            },
+            {
+              "idStss": "3432df4f-1d42-4197-a6a7-4d4fe69ce9cf",
+              "idSogg": "f8aaffa6-e397-4195-b3fc-ffeda5bcb3bb",
+              "denoSogg": "Giulietta Bianchi"
+            },
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            },
+            {
+              "idStss": "448a1a00-326e-48c9-a634-3af6f15d8c51",
+              "idSogg": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+              "denoSogg": "Dindo Battaglia"
+            }
+          ],
+          "refeAmmiNome": "Sarita",
+          "refeAmmiCognome": "Fabbri",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "783473fc-aa21-42ca-baa8-42820cde1ef3",
+              "idBene": "27accf1e-d09e-4829-a616-4602880600be",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Shaira",
+              "refeBeneCognome": "Messina",
+              "teleRefe": "+27 222 30996681",
+              "mailRefe": "Arturo_Damico@example.net",
+              "pecRefe": "Siro55@example.net"
+            },
+            {
+              "idStbe": "ca3d5cf3-56c8-42cc-a1bc-8a8090c26939",
+              "idBene": "5fe9f7eb-d34c-478b-aaa9-446cfea91154",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Max",
+              "refeBeneCognome": "Messina",
+              "teleRefe": "340 211 927",
+              "mailRefe": "Fulvio67@example.org",
+              "pecRefe": "Joey_Leone@example.net"
+            },
+            {
+              "idStbe": "8e1b7846-474c-4021-91bb-41deccd78232",
+              "idBene": "c100e078-a979-4e99-be2d-635576374d45",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Loris",
+              "refeBeneCognome": "Villa",
+              "teleRefe": "+30 253 66 27 9747",
+              "mailRefe": "Sandro.Villa@example.org",
+              "pecRefe": "Joshua.Coppola20@example.com"
+            },
+            {
+              "idStbe": "f9657bf4-43d6-4c8c-b9ac-9d71b89aacb9",
+              "idBene": "107c2a0b-dc50-4a8a-bffc-88f8adb1716a",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Giacobbe",
+              "refeBeneCognome": "Bellini",
+              "teleRefe": "061 353 5884",
+              "mailRefe": "Yago_Martinelli@example.net",
+              "pecRefe": "Eufemia69@example.net"
+            },
+            {
+              "idStbe": "bee38906-f807-4d92-9915-eebe5fd81b57",
+              "idBene": "ef601d96-9aee-469e-90b6-31fa3d86c80f",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Umberto",
+              "refeBeneCognome": "Villa",
+              "teleRefe": "+54 398 0846458",
+              "mailRefe": "Oreste45@example.net",
+              "pecRefe": "Elsa_Sorrentino32@example.com"
+            }
+          ],
+          "numeProt": "9538c2b6-ec4b-499e-a781-bdf2dd7b2a02",
+          "idSito": "304efe33-8140-43b7-9171-047da7ddbead",
+          "idStruPadr": "19144831-8e62-4089-b882-1435f0c6225c",
+          "flagSost": 0,
+          "riferimentiGeografici": [
+            {
+              "idStge": "f1574f9d-5549-4900-9272-39e9ef549102",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "h32fl963oqkctaz",
+              "codiRegi": "002",
+              "codiProv": "007",
               "codiComu": "005"
             },
-            "protApprovStru": "g11pwwc2da",
-            "dataProtApprovStru": "2019-03-08",
-            "protAssFinanzStru": "7vxjq0ln4l",
-            "dataProtAssFinanzStru": "2018-10-26",
-            "noteStru": "Nisi neque voluptas commodi ut in. Debitis accusantium pariatur sapiente cum commodi placeat. Accusamus impedit quo qui est ut aspernatur optio pariatur. Iure dolor aut ut dicta incidunt. Voluptatibus amet quo. Facere dolor quas placeat minima eum qui sed.",
-            "codiStru": "62f519fd-c10b-4685-ab00-c10a7839fb0d",
-            "statInse": 1,
-            "statInseDesc": "Definitivo",
-            "statStru": 1,
-            "statStruDesc": "Attivo",
-            "statLavo": 0,
-            "statLavoDesc": "Aperto",
-            "enti": []
-          }
-        ]
-    },
-      "_tipologie": [
-        {
-          "key": "6aaf0ad0-b34f-40c9-b68d-1a408b43f242",
-          "value": "Atto Integrativo",
-          "other": {}
+            {
+              "idStge": "a3093b02-3ee1-4b3e-bd71-bdaed748ef15",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "n337ejpf12c0ic2",
+              "codiRegi": "018",
+              "codiProv": "101",
+              "codiComu": "005"
+            },
+            {
+              "idStge": "d1182036-0aa5-4186-9729-5c14db3d0412",
+              "flagNazi": 0,
+              "codiGeo": "P",
+              "codiIsta": "dzq3fybz6tgjg0y",
+              "codiRegi": "018",
+              "codiProv": "080",
+              "codiComu": "005"
+            }
+          ],
+          "protApprovStru": "ysed0j4gh7",
+          "dataProtApprovStru": "2018-09-27",
+          "protAssFinanzStru": "kn2t56bcwk",
+          "dataProtAssFinanzStru": "2019-07-04",
+          "noteStru": "Magni corporis consequatur et corrupti molestiae non. Ut omnis suscipit totam sit est quo ex.",
+          "codiStru": "6a277122-fd6c-4720-a6c6-8c5f4886f44e",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": [
+            "Ente 3",
+            "Ente 7",
+            "Ente 8",
+            "Ente 6",
+            "Ente 0"
+          ]
         },
         {
-          "key": "c0381a12-695b-4c33-9da8-c1246023daa3",
-          "value": "eveniet",
-          "other": {}
+          "id": "7f110938-e6e6-46d2-bef9-32b23dc6346d",
+          "idStru": "7f110938-e6e6-46d2-bef9-32b23dc6346d",
+          "tipoStru": "8a5330d2-4ef2-4413-a64f-afec83d8b9d2",
+          "idSett": "7640bc91-77b0-4e4c-a869-da9d4abb7908",
+          "nomeStru": "direzionale virtuale Finestra temporale",
+          "obbiStru": "nam",
+          "dataFirm": "2018-11-05",
+          "dataRegi": "2019-06-28",
+          "sottoscrittori": [
+            {
+              "idStss": "d58f2b12-ab3c-4f72-835c-9f18a457c3e6",
+              "idSogg": "faf9f8f3-21e5-44a7-9ff3-b7b295ff34e5",
+              "denoSogg": "Jack Orlando"
+            },
+            {
+              "idStss": "dd537a3e-1273-4d46-9466-169845d6cc23",
+              "idSogg": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+              "denoSogg": "Cecco Montanari"
+            },
+            {
+              "idStss": "2538eceb-b614-48fd-94bb-a70f4c34a1d1",
+              "idSogg": "028e1d32-8870-45f4-8d3c-12e09527d077",
+              "denoSogg": "Giacinta Amato"
+            },
+            {
+              "idStss": "233c8c47-f753-4ab4-aed4-be9c6ee9b2a7",
+              "idSogg": "2b9d2a2a-214f-4d9a-b686-bf183b689c8e",
+              "denoSogg": "Danthon Gentile"
+            },
+            {
+              "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+              "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+              "denoSogg": "Ivano Fior"
+            },
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            }
+          ],
+          "refeAmmiNome": "Fernando",
+          "refeAmmiCognome": "Grasso",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "eeb63614-af37-409b-9953-524c119a8ea8",
+              "idBene": "efe7633b-75e4-4844-8a85-610003579119",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Mietta",
+              "refeBeneCognome": "Guerra",
+              "teleRefe": "+39 397 809 710",
+              "mailRefe": "Piccarda_Montanari43@example.com",
+              "pecRefe": "Dylan84@example.com"
+            },
+            {
+              "idStbe": "f2715ccd-306d-4827-87c2-d4a861ffef2a",
+              "idBene": "107c2a0b-dc50-4a8a-bffc-88f8adb1716a",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Shaira",
+              "refeBeneCognome": "Sartori",
+              "teleRefe": "+39 004 260 546",
+              "mailRefe": "Cristyn_Negri2@example.org",
+              "pecRefe": "Luce.Esposito4@example.com"
+            }
+          ],
+          "numeProt": "4b88f518-df68-48c5-8d55-6b4846ab595c",
+          "idSito": "dca162b9-34b0-452b-ac81-bb0d375f7be4",
+          "idStruPadr": "102a62b1-9142-4ada-967e-921fe458d401",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "e67cd154-6ead-4d04-8b16-692dda69cf2f",
+              "flagNazi": 0,
+              "codiGeo": "R",
+              "codiIsta": "bisiodfhn6o7ctg",
+              "codiRegi": "011",
+              "codiProv": "",
+              "codiComu": "002"
+            },
+            null,
+            {
+              "idStge": "94465e68-6885-461f-915a-f708a14bcb3e",
+              "flagNazi": 0,
+              "codiGeo": "R",
+              "codiIsta": "6itk9z7w5upz5dm",
+              "codiRegi": "017",
+              "codiProv": "",
+              "codiComu": "002"
+            }
+          ],
+          "protApprovStru": "utb6czzdiu",
+          "dataProtApprovStru": "2019-02-27",
+          "protAssFinanzStru": "9ba3sz0uz8",
+          "dataProtAssFinanzStru": "2019-06-13",
+          "noteStru": "Quis eveniet ratione architecto perferendis quo eligendi nobis illo excepturi. Aperiam repellendus laudantium sint ab.",
+          "codiStru": "efabeb9c-1426-44b2-92b0-f2654418f322",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": [
+            "Ente 4",
+            "Ente 6"
+          ]
         },
         {
-          "key": "16327d39-fb32-48f1-acd5-5c965fd67b34",
-          "value": "modi",
-          "other": {}
+          "id": "7bc71071-6389-40f0-998a-10220aa6b4cc",
+          "idStru": "7bc71071-6389-40f0-998a-10220aa6b4cc",
+          "tipoStru": "2ed27128-d303-44d8-a4fa-1bc9ca2c4bc7",
+          "idSett": "b35cf678-b48c-4412-9a87-8106ba9262af",
+          "nomeStru": "dinamica ricontestualizzata Codifica",
+          "obbiStru": "laboriosam",
+          "dataFirm": "2019-02-04",
+          "dataRegi": "2019-06-28",
+          "sottoscrittori": [
+            {
+              "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+              "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+              "denoSogg": "Prisca Caruso"
+            },
+            {
+              "idStss": "51f11f25-0d64-4d39-be3c-a111a3192e44",
+              "idSogg": "352542aa-3188-46a0-924d-565dd911651d",
+              "denoSogg": "Elda Grassi"
+            },
+            {
+              "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+              "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+              "denoSogg": "Ivano Fior"
+            },
+            {
+              "idStss": "3102737d-f4da-4d44-a339-715307110504",
+              "idSogg": "3e0a2ebc-8d37-4121-a7ca-81b0b27386aa",
+              "denoSogg": "Fiorentino Bianc"
+            },
+            {
+              "idStss": "dd537a3e-1273-4d46-9466-169845d6cc23",
+              "idSogg": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+              "denoSogg": "Cecco Montanari"
+            },
+            {
+              "idStss": "448a1a00-326e-48c9-a634-3af6f15d8c51",
+              "idSogg": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+              "denoSogg": "Dindo Battaglia"
+            },
+            {
+              "idStss": "05ed356f-2b63-4820-904d-61cd04fa0802",
+              "idSogg": "69762a5c-96d2-4906-9cb3-585cc939cbb6",
+              "denoSogg": "Ing. Anselmo Bruno"
+            }
+          ],
+          "refeAmmiNome": "Akira",
+          "refeAmmiCognome": "Giuliani",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "56c0d85a-ece5-42a6-a000-6b3d6bfec81a",
+              "idBene": "f50d63e8-c084-4356-a1f3-e45222fe5d10",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Nick",
+              "refeBeneCognome": "Pagano",
+              "teleRefe": "+83 222 6132706",
+              "mailRefe": "Iacopo69@example.com",
+              "pecRefe": "Armando.Lombardi77@example.net"
+            }
+          ],
+          "numeProt": "f0637e0d-6f19-4872-90c4-ce51b71e707a",
+          "idSito": "304efe33-8140-43b7-9171-047da7ddbead",
+          "idStruPadr": "e0ea7053-c974-45e9-83df-cb94725b2152",
+          "flagSost": 1,
+          "riferimentiGeografici": [
+            {
+              "idStge": "c8254ec7-2e19-4e4a-a70f-acb8904aea47",
+              "flagNazi": 1,
+              "codiGeo": "N",
+              "codiIsta": "ky8ey3snnfo4d1q",
+              "codiRegi": "",
+              "codiProv": "",
+              "codiComu": "000"
+            }
+          ],
+          "protApprovStru": "dunaed10ij",
+          "dataProtApprovStru": "2018-11-19",
+          "protAssFinanzStru": "gwnl1zumvf",
+          "dataProtAssFinanzStru": "2018-09-27",
+          "noteStru": "Doloribus nobis alias adipisci aperiam cum. Adipisci aut officia aperiam accusamus id sunt ut. Dolores occaecati eum qui et exercitationem recusandae et cupiditate. Est minus enim. Est eos sed et delectus modi asperiores deserunt.",
+          "codiStru": "6a859a49-5bc8-4d36-96aa-892ac17d8a8a",
+          "statInse": 1,
+          "statInseDesc": "Definitivo",
+          "statStru": 1,
+          "statStruDesc": "Attivo",
+          "statLavo": 1,
+          "statLavoDesc": "Chiuso",
+          "enti": [
+            "Ente 1"
+          ]
         },
         {
-          "key": "1a23ffe7-834f-4623-b0e8-3fb11b3d62a2",
-          "value": "at",
-          "other": {}
+          "id": "15e4b864-4f63-48e3-bbb0-6f248e1c470e",
+          "idStru": "15e4b864-4f63-48e3-bbb0-6f248e1c470e",
+          "tipoStru": "87bd51d5-b267-4798-bec1-b47b34305667",
+          "idSett": "82bbe20f-e478-4202-92b7-f598cde17172",
+          "nomeStru": "interattiva sincronizzata Orchestrazione",
+          "obbiStru": "alias",
+          "dataFirm": "2019-01-10",
+          "dataRegi": "2019-06-27",
+          "sottoscrittori": [
+            {
+              "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+              "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+              "denoSogg": "Ivano Fior"
+            },
+            {
+              "idStss": "dd537a3e-1273-4d46-9466-169845d6cc23",
+              "idSogg": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+              "denoSogg": "Cecco Montanari"
+            },
+            {
+              "idStss": "3102737d-f4da-4d44-a339-715307110504",
+              "idSogg": "3e0a2ebc-8d37-4121-a7ca-81b0b27386aa",
+              "denoSogg": "Fiorentino Bianc"
+            }
+          ],
+          "refeAmmiNome": "Ileana",
+          "refeAmmiCognome": "Pellegrino",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "2949d208-ccb5-454d-895a-26180f5b5797",
+              "idBene": "052edb19-c350-4a7f-ab26-ac73ee8d6ffc",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Arcibaldo",
+              "refeBeneCognome": "Amato",
+              "teleRefe": "+75 848 6815608",
+              "mailRefe": "Sebastian.Vitale6@example.net",
+              "pecRefe": "Cleopatra_Orlando@example.org"
+            }
+          ],
+          "numeProt": "30e12851-aa96-43cb-aa30-8796a05ed16e",
+          "idSito": "dca162b9-34b0-452b-ac81-bb0d375f7be4",
+          "idStruPadr": "e0ea7053-c974-45e9-83df-cb94725b2152",
+          "flagSost": 0,
+          "riferimentiGeografici": [
+            {
+              "idStge": "7b4a9f49-8e36-43c3-94e2-15433e93988f",
+              "flagNazi": 1,
+              "codiGeo": "N",
+              "codiIsta": "4nxrcqmc2udapcb",
+              "codiRegi": "",
+              "codiProv": "",
+              "codiComu": "001"
+            }
+          ],
+          "protApprovStru": "di29hmtnfz",
+          "dataProtApprovStru": "2019-01-30",
+          "protAssFinanzStru": "dti08c3vlk",
+          "dataProtAssFinanzStru": "2018-12-04",
+          "noteStru": "Non veritatis dolorem beatae sed id. Quasi dolorem et possimus ut labore quos quae. Tempore numquam quidem error quidem a et. Impedit in est quaerat. Accusamus consectetur fugit dignissimos culpa mollitia cumque. Soluta qui sint molestias.",
+          "codiStru": "6f28bb8d-bd68-4857-9cbc-dde929985ca3",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": [
+            "Ente 9"
+          ]
         },
         {
-          "key": "9521fe18-72ac-4f7f-a7cf-52f3a4060b59",
-          "value": "vel",
-          "other": {}
-        }
-      ],
-      "_enti": [
-        {
-          "key": "56549d88-4a61-46e8-8e9d-26831ceecf9b",
-          "value": "Ente 0",
-          "other": {}
-        },
-        {
-          "key": "dd465ea7-14ce-4545-832b-13cc20ae7535",
-          "value": "Ente 1",
-          "other": {}
-        },
-        {
-          "key": "d7fc7842-cb40-4d28-8cdf-d0f9b2aa2039",
-          "value": "Ente 2",
-          "other": {}
-        },
-        {
-          "key": "7b498154-91ff-42aa-a43f-69ee85e5314d",
-          "value": "Ente 3",
-          "other": {}
-        },
-        {
-          "key": "a5b9e43e-6a94-4377-b3f3-9b80426f015b",
-          "value": "Ente 4",
-          "other": {}
-        },
-        {
-          "key": "a286866e-f4d2-4c06-8e77-f0325543e414",
-          "value": "Ente 5",
-          "other": {}
-        },
-        {
-          "key": "51cfaa65-bdeb-4fc7-8e85-07d388a869cc",
-          "value": "Ente 6",
-          "other": {}
-        },
-        {
-          "key": "b8aa9b84-d11f-4fff-b46b-7c6ec39b9a46",
-          "value": "Ente 7",
-          "other": {}
-        },
-        {
-          "key": "65c410bc-a559-4245-9b85-92c92d13cae8",
-          "value": "Ente 8",
-          "other": {}
-        },
-        {
-          "key": "39042405-9458-4ede-9654-f13f3c55c803",
-          "value": "Ente 9",
-          "other": {}
-        }
-      ],
-      "_settori": [
-        {
-          "key": "56549d88-4a61-46e8-8e9d-26831ceecf9b",
-          "value": "Settore 0",
-          "other": {}
-        },
-        {
-          "key": "dd465ea7-14ce-4545-832b-13cc20ae7535",
-          "value": "Settore 1",
-          "other": {}
-        },
-        {
-          "key": "d7fc7842-cb40-4d28-8cdf-d0f9b2aa2039",
-          "value": "Settore 2",
-          "other": {}
-        }
-      ],
-      "_sottoscrittori": [
-        {
-          "key": "56549d88-4a61-46e8-8e9d-26831ceecf9b",
-          "value": "Sottoscrittore 0",
-          "other": {}
-        },
-        {
-          "key": "dd465ea7-14ce-4545-832b-13cc20ae7535",
-          "value": "Sottoscrittore 1",
-          "other": {}
-        },
-        {
-          "key": "d7fc7842-cb40-4d28-8cdf-d0f9b2aa2039",
-          "value": "Sottoscrittore 2",
-          "other": {}
-        }
-      ],
-      "_siti": [
-        {
-          "key": "56549d88-4a61-46e8-8e9d-26831ceecf9b",
-          "value": "Sito 0",
-          "other": {}
-        },
-        {
-          "key": "dd465ea7-14ce-4545-832b-13cc20ae7535",
-          "value": "Sito 1",
-          "other": {}
-        },
-        {
-          "key": "d7fc7842-cb40-4d28-8cdf-d0f9b2aa2039",
-          "value": "Sito 2",
-          "other": {}
-        }
-      ],
-      "_strumenti": [
-        {
-          "key": "56549d88-4a61-46e8-8e9d-26831ceecf9b",
-          "value": "Strumento 0",
-          "other": {}
-        },
-        {
-          "key": "dd465ea7-14ce-4545-832b-13cc20ae7535",
-          "value": "Strumento 1",
-          "other": {}
-        },
-        {
-          "key": "d7fc7842-cb40-4d28-8cdf-d0f9b2aa2039",
-          "value": "Strumento 2",
-          "other": {}
+          "id": "43ed141f-8967-4b7f-87df-33c77a906745",
+          "idStru": "43ed141f-8967-4b7f-87df-33c77a906745",
+          "tipoStru": "8a5330d2-4ef2-4413-a64f-afec83d8b9d2",
+          "idSett": "82bbe20f-e478-4202-92b7-f598cde17172",
+          "nomeStru": "24 ore gestita Hub",
+          "obbiStru": "culpa",
+          "dataFirm": "2019-04-21",
+          "dataRegi": "2019-06-27",
+          "sottoscrittori": [
+            {
+              "idStss": "05ed356f-2b63-4820-904d-61cd04fa0802",
+              "idSogg": "69762a5c-96d2-4906-9cb3-585cc939cbb6",
+              "denoSogg": "Ing. Anselmo Bruno"
+            }
+          ],
+          "refeAmmiNome": "Danny",
+          "refeAmmiCognome": "Guerra",
+          "datiReferenteBeneficiario": [
+            {
+              "idStbe": "c9371c97-7a24-482a-be20-756ae51cd21d",
+              "idBene": "27accf1e-d09e-4829-a616-4602880600be",
+              "primoBeneficiaro": true,
+              "refeBeneNome": "Maggiore",
+              "refeBeneCognome": "Riva",
+              "teleRefe": "+68 829 88 37 1298",
+              "mailRefe": "Quirino.Valentini@example.com",
+              "pecRefe": "Antimo43@example.com"
+            },
+            {
+              "idStbe": "04ec09ce-5d24-4c09-8d47-b80d9c374190",
+              "idBene": "b8212af7-9ace-4435-b9a7-1cfb47bd6b1b",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Marvin",
+              "refeBeneCognome": "Greco",
+              "teleRefe": "059 927 4974",
+              "mailRefe": "Abramo_Milani70@example.net",
+              "pecRefe": "Danuta91@example.org"
+            },
+            {
+              "idStbe": "5d3d8abb-84e9-45ea-8e1a-1a69853b8801",
+              "idBene": "f50d63e8-c084-4356-a1f3-e45222fe5d10",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Giacinto",
+              "refeBeneCognome": "Montanari",
+              "teleRefe": "+02 190 6921577",
+              "mailRefe": "Giobbe_Longo77@example.org",
+              "pecRefe": "Armando_Ferraro@example.com"
+            },
+            {
+              "idStbe": "586044b5-e037-4291-8f75-601783bd6625",
+              "idBene": "052edb19-c350-4a7f-ab26-ac73ee8d6ffc",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Egisto",
+              "refeBeneCognome": "Esposito",
+              "teleRefe": "+52 199 6254773",
+              "mailRefe": "Marzio.Dangelo@example.org",
+              "pecRefe": "Rudy_Benedetti@example.org"
+            },
+            {
+              "idStbe": "2a7a1d74-eef6-42a1-8ce8-da04198b9815",
+              "idBene": "ea5fd3bd-d38f-4aa6-becd-8c319116e5e7",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Fiorenzo",
+              "refeBeneCognome": "Bruno",
+              "teleRefe": "+11 2308 98923437",
+              "mailRefe": "Marzio.Marchetti@example.com",
+              "pecRefe": "Neri.Costantin70@example.net"
+            },
+            {
+              "idStbe": "603c74b6-e063-42ff-9180-2426f3e9fef8",
+              "idBene": "c100e078-a979-4e99-be2d-635576374d45",
+              "primoBeneficiaro": false,
+              "refeBeneNome": "Giancarlo",
+              "refeBeneCognome": "Costantin",
+              "teleRefe": "+73 1650 1504781",
+              "mailRefe": "Marino_Deluca@example.net",
+              "pecRefe": "Lisa_Sartori@example.org"
+            }
+          ],
+          "numeProt": "6788a14d-3a62-4cc6-b9a3-0dd872314ede",
+          "idSito": "56a33cfa-80ea-42f4-af64-363c958e8a9e",
+          "idStruPadr": "102a62b1-9142-4ada-967e-921fe458d401",
+          "flagSost": 0,
+          "riferimentiGeografici": [
+            {
+              "idStge": "94971fd3-d85c-41ea-a212-ad7c952dd15f",
+              "flagNazi": 1,
+              "codiGeo": "N",
+              "codiIsta": "y0h1kqgfngdx7fh",
+              "codiRegi": "",
+              "codiProv": "",
+              "codiComu": "001"
+            }
+          ],
+          "protApprovStru": "86trcn1wl5",
+          "dataProtApprovStru": "2018-08-03",
+          "protAssFinanzStru": "qr28afk5nj",
+          "dataProtAssFinanzStru": "2019-03-12",
+          "noteStru": "Aut et est culpa omnis sed. Ut debitis voluptate. Doloremque dolore voluptas sint at et molestiae. Ut quo qui assumenda. Dignissimos est ducimus fugiat ex officia pariatur eum et et. Id officia iure mollitia.",
+          "codiStru": "46ed0f41-41ce-4056-a3bb-3e011c3e7aee",
+          "statInse": 0,
+          "statInseDesc": "Bozza",
+          "statStru": 0,
+          "statStruDesc": "Non attivo",
+          "statLavo": 0,
+          "statLavoDesc": "Aperto",
+          "enti": [
+            "Ente 3",
+            "Ente 5",
+            "Ente 1",
+            "Ente 9",
+            "Ente 2",
+            "Ente 8"
+          ]
         }
       ]
+    },
+    "_tipologie": [
+      {
+        "key": "2ed27128-d303-44d8-a4fa-1bc9ca2c4bc7",
+        "value": "Atto Integrativo",
+        "other": {}
+      },
+      {
+        "key": "8a5330d2-4ef2-4413-a64f-afec83d8b9d2",
+        "value": "sequi",
+        "other": {}
+      },
+      {
+        "key": "87bd51d5-b267-4798-bec1-b47b34305667",
+        "value": "reiciendis",
+        "other": {}
+      },
+      {
+        "key": "60fc54aa-7425-43ff-aabe-bae8dcecd8f3",
+        "value": "ipsam",
+        "other": {}
+      },
+      {
+        "key": "095c0c57-5806-43e6-bff7-20767de2db76",
+        "value": "similique",
+        "other": {}
+      }
+    ],
+    "_enti": [
+      {
+        "key": "ef601d96-9aee-469e-90b6-31fa3d86c80f",
+        "value": "Ente 0",
+        "other": {}
+      },
+      {
+        "key": "f50d63e8-c084-4356-a1f3-e45222fe5d10",
+        "value": "Ente 1",
+        "other": {}
+      },
+      {
+        "key": "ea5fd3bd-d38f-4aa6-becd-8c319116e5e7",
+        "value": "Ente 2",
+        "other": {}
+      },
+      {
+        "key": "27accf1e-d09e-4829-a616-4602880600be",
+        "value": "Ente 3",
+        "other": {}
+      },
+      {
+        "key": "efe7633b-75e4-4844-8a85-610003579119",
+        "value": "Ente 4",
+        "other": {}
+      },
+      {
+        "key": "b8212af7-9ace-4435-b9a7-1cfb47bd6b1b",
+        "value": "Ente 5",
+        "other": {}
+      },
+      {
+        "key": "107c2a0b-dc50-4a8a-bffc-88f8adb1716a",
+        "value": "Ente 6",
+        "other": {}
+      },
+      {
+        "key": "5fe9f7eb-d34c-478b-aaa9-446cfea91154",
+        "value": "Ente 7",
+        "other": {}
+      },
+      {
+        "key": "c100e078-a979-4e99-be2d-635576374d45",
+        "value": "Ente 8",
+        "other": {}
+      },
+      {
+        "key": "052edb19-c350-4a7f-ab26-ac73ee8d6ffc",
+        "value": "Ente 9",
+        "other": {}
+      }
+    ],
+    "_settori": [
+      {
+        "key": "07eb0c99-728e-45c4-bb28-f8851736a640",
+        "value": "Bonifiche",
+        "other": {}
+      },
+      {
+        "key": "ad57a63e-2d28-4149-a71c-a2700c2f21b3",
+        "value": "quia",
+        "other": {}
+      },
+      {
+        "key": "7640bc91-77b0-4e4c-a869-da9d4abb7908",
+        "value": "sequi",
+        "other": {}
+      },
+      {
+        "key": "82bbe20f-e478-4202-92b7-f598cde17172",
+        "value": "fugit",
+        "other": {}
+      },
+      {
+        "key": "b35cf678-b48c-4412-9a87-8106ba9262af",
+        "value": "enim",
+        "other": {}
+      }
+    ],
+    "_sottoscrittori": [
+      {
+        "key": "352542aa-3188-46a0-924d-565dd911651d",
+        "value": "Edilio Neri",
+        "other": {
+          "idStss": "51f11f25-0d64-4d39-be3c-a111a3192e44",
+          "idSogg": "352542aa-3188-46a0-924d-565dd911651d",
+          "denoSogg": "Elda Grassi"
+        }
+      },
+      {
+        "key": "faf9f8f3-21e5-44a7-9ff3-b7b295ff34e5",
+        "value": "Giacinto Milani",
+        "other": {
+          "idStss": "d58f2b12-ab3c-4f72-835c-9f18a457c3e6",
+          "idSogg": "faf9f8f3-21e5-44a7-9ff3-b7b295ff34e5",
+          "denoSogg": "Jack Orlando"
+        }
+      },
+      {
+        "key": "f8aaffa6-e397-4195-b3fc-ffeda5bcb3bb",
+        "value": "Marvin Pellegrino",
+        "other": {
+          "idStss": "3432df4f-1d42-4197-a6a7-4d4fe69ce9cf",
+          "idSogg": "f8aaffa6-e397-4195-b3fc-ffeda5bcb3bb",
+          "denoSogg": "Giulietta Bianchi"
+        }
+      },
+      {
+        "key": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+        "value": "Ursula Orlando",
+        "other": {
+          "idStss": "d0a7b767-e12b-43e0-b601-e1e99c6c25e1",
+          "idSogg": "0f4c6e39-f234-4a20-82df-76e21e52ac8e",
+          "denoSogg": "Ivano Fior"
+        }
+      },
+      {
+        "key": "3e0a2ebc-8d37-4121-a7ca-81b0b27386aa",
+        "value": "Tazio Damico",
+        "other": {
+          "idStss": "3102737d-f4da-4d44-a339-715307110504",
+          "idSogg": "3e0a2ebc-8d37-4121-a7ca-81b0b27386aa",
+          "denoSogg": "Fiorentino Bianc"
+        }
+      },
+      {
+        "key": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+        "value": "Maria Messina",
+        "other": {
+          "idStss": "dd537a3e-1273-4d46-9466-169845d6cc23",
+          "idSogg": "4fccfc6b-4b15-4b9f-b20a-c2f30b1cfa00",
+          "denoSogg": "Cecco Montanari"
+        }
+      },
+      {
+        "key": "eefc3a12-4dcb-4b23-811d-629a48ee152e",
+        "value": "Nazzareno Ferrari",
+        "other": {
+          "idStss": "17bc2123-499c-4617-835b-337ea9046161",
+          "idSogg": "eefc3a12-4dcb-4b23-811d-629a48ee152e",
+          "denoSogg": "Tazio Fabbri"
+        }
+      },
+      {
+        "key": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+        "value": "Ettore Valentini",
+        "other": {
+          "idStss": "3ed139cd-f7c0-4d77-891f-fbe6ef0a5910",
+          "idSogg": "1518e242-5fd4-45fa-b13c-92acf8172e88",
+          "denoSogg": "Enrico Ferrari"
+        }
+      },
+      {
+        "key": "a80bed7a-f3bc-43b0-b1e6-d5cf0042357e",
+        "value": "Odino Leone",
+        "other": {
+          "idStss": "b0c4fa87-ad04-4f5c-87a0-ef2fbda9d5ba",
+          "idSogg": "a80bed7a-f3bc-43b0-b1e6-d5cf0042357e",
+          "denoSogg": "Pierfrancesco Guerra"
+        }
+      },
+      {
+        "key": "00403372-102b-450e-a521-0e8b09d44404",
+        "value": "Penelope Barbieri",
+        "other": {
+          "idStss": "2c5ad60d-8494-49e0-9408-ff45f85f46cd",
+          "idSogg": "00403372-102b-450e-a521-0e8b09d44404",
+          "denoSogg": "Prisca Caruso"
+        }
+      },
+      {
+        "key": "5f603e50-8077-4fc7-81f6-2ca48ba8711a",
+        "value": "Costanzo Costa",
+        "other": {
+          "idStss": "94ec27d8-6ae5-455f-a86f-50e59618588c",
+          "idSogg": "5f603e50-8077-4fc7-81f6-2ca48ba8711a",
+          "denoSogg": "Sirio Costantin"
+        }
+      },
+      {
+        "key": "69762a5c-96d2-4906-9cb3-585cc939cbb6",
+        "value": "Eriberto D'angelo",
+        "other": {
+          "idStss": "05ed356f-2b63-4820-904d-61cd04fa0802",
+          "idSogg": "69762a5c-96d2-4906-9cb3-585cc939cbb6",
+          "denoSogg": "Ing. Anselmo Bruno"
+        }
+      },
+      {
+        "key": "028e1d32-8870-45f4-8d3c-12e09527d077",
+        "value": "Ortensia Basile",
+        "other": {
+          "idStss": "2538eceb-b614-48fd-94bb-a70f4c34a1d1",
+          "idSogg": "028e1d32-8870-45f4-8d3c-12e09527d077",
+          "denoSogg": "Giacinta Amato"
+        }
+      },
+      {
+        "key": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+        "value": "Alessandro Riva",
+        "other": {
+          "idStss": "448a1a00-326e-48c9-a634-3af6f15d8c51",
+          "idSogg": "93932c38-589d-407a-8d99-8a8477e2f2ff",
+          "denoSogg": "Dindo Battaglia"
+        }
+      },
+      {
+        "key": "2b9d2a2a-214f-4d9a-b686-bf183b689c8e",
+        "value": "Noah Caruso",
+        "other": {
+          "idStss": "233c8c47-f753-4ab4-aed4-be9c6ee9b2a7",
+          "idSogg": "2b9d2a2a-214f-4d9a-b686-bf183b689c8e",
+          "denoSogg": "Danthon Gentile"
+        }
+      }
+    ],
+    "_siti": [
+      {
+        "key": "dca162b9-34b0-452b-ac81-bb0d375f7be4",
+        "value": "praesentium",
+        "other": {}
+      },
+      {
+        "key": "bd186cb1-04ee-4d7e-aad9-20ddd72c329a",
+        "value": "molestiae",
+        "other": {}
+      },
+      {
+        "key": "7a40f0d4-d3b2-4138-9bf2-5d8584fd9c91",
+        "value": "similique",
+        "other": {}
+      },
+      {
+        "key": "304efe33-8140-43b7-9171-047da7ddbead",
+        "value": "qui",
+        "other": {}
+      },
+      {
+        "key": "56a33cfa-80ea-42f4-af64-363c958e8a9e",
+        "value": "iusto",
+        "other": {}
+      }
+    ],
+    "_strumenti": [
+      {
+        "key": "19144831-8e62-4089-b882-1435f0c6225c",
+        "value": "quaerat",
+        "other": {}
+      },
+      {
+        "key": "102a62b1-9142-4ada-967e-921fe458d401",
+        "value": "voluptates",
+        "other": {}
+      },
+      {
+        "key": "81860294-5889-4690-81d9-134a80f7c250",
+        "value": "aperiam",
+        "other": {}
+      },
+      {
+        "key": "77d7c7cd-4f52-4508-a115-0439223dbf72",
+        "value": "nobis",
+        "other": {}
+      },
+      {
+        "key": "e0ea7053-c974-45e9-83df-cb94725b2152",
+        "value": "asperiores",
+        "other": {}
+      }
+    ]
 }
